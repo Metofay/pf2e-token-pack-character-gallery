@@ -1,0 +1,19 @@
+<section class="body main" data-application-part="grid">
+  <div class="grid cg-scrollable" data-active-color="{{activeColor}}">
+    {{#each displayData as |character|}}
+      <div
+        data-action="selectImage"
+        data-key="{{character.key}}"
+        data-label="{{character.label}}"
+        data-tags="{{character.allTags}}"
+        class="preview"
+      >
+        {{!-- Check if this one is selected with {{#if (eq character.key ../selected.key)}} selected{{/if}} --}}
+        <figure>
+          <img src="{{character.art.thumb}}" loading="lazy">
+          <figcaption>{{character.label}}</figcaption>
+        </figure>
+      </div>
+    {{/each}}
+  </div>
+</section>

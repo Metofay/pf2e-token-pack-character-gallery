@@ -1,0 +1,72 @@
+{
+  "id": "pf2e-token-pack-character-gallery",
+  "title": "Pathfinder 2E: Token Pack (Character Gallery)",
+  "description": "Дополнительный модуль для Pathfinder 2E: Token Pack, добавляет галерею",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "relationships": {
+    "recommends": [
+      {
+        "id": "pf2e-token-pack",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/Metofay/pf2e-token-pack//main/module.json"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Metofay",
+      "discord": "Метофей#135975",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "module/main.mjs"
+  ],
+  "styles": [
+    "styles/pf2e-tokens-characters.css"
+  ],
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Russian",
+      "path": "lang/ru.json",
+      "flags": {}
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
+  "flags": {
+  "galleryDatasheets": {
+      "character-gallery": {
+        "label": "Pathfinder Tokens: Character Gallery Datasheet",
+        "hint": "Иллюстрации из модуля Pathfinder Tokens: Character Gallery, в которых особое внимание уделяется игровым предкам для PC-персонажей и NPC-персонажей.",
+        "sheet": "modules/pf2e-token-pack-character-gallery/datasheet/character-gallery.json"
+      },
+      "bestiaries": {
+            "label": "Pathfinder Tokens: Myth and Magic Datasheet",
+            "hint": "Иллюстрация из модуля Pathfinder Tokens: Myth and Magic.",
+            "sheet": "modules/pf2e-token-pack-character-gallery/datasheet/myth-and-magic.json"
+        }
+    },
+    "tokenRingSubjectMappings": {
+      "modules/pf2e-token-pack-character-gallery/assets/character-gallery/tokens/": "modules/pf2e-token-pack-character-gallery/assets/character-gallery/subjects",
+      "modules/pf2e-token-pack-character-gallery/assets/tokens/": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects"
+    }
+  },
+  "socket": true,
+
+  "url": "https://github.com/Metofay/pf2e-token-pack-character-gallery",
+  "manifest": "https://raw.githubusercontent.com/Metofay/pf2e-token-pack-character-gallery//main/module.json",
+  "download": "https://github.com/Metofay/pf2e-token-pack-character-gallery/archive/refs/heads/main.zip",
+  "readme": "https://github.com/Metofay/pf2e-token-pack-character-gallery/blob/main/README.md",
+  "bugs": "https://github.com/Metofay/pf2e-token-pack-character-gallery/issues",
+  "changelog": "https://github.com/Metofay/pf2e-token-pack-character-gallery/blob/master/CHANGELOG.md"
+}

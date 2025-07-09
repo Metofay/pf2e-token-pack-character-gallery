@@ -1,0 +1,38 @@
+<form autocomplete="off">
+    <h1>{{title}}</h1>
+    <p class="notes">{{localize "CharacterGallery.MenuDescription"}}</p>
+
+    <div class="form-group">
+        <label for="galleryAccess">{{localize settings.galleryAccess.name}}</label>
+        <div class="form-fields">
+            <select name="galleryAccess">
+                {{{selectOptions settings.galleryAccess.choices selected=settings.galleryAccess.value localize=true}}}
+            </select>
+        </div>
+        <p class="notes">{{localize settings.galleryAccess.hint}}</p>
+    </div>
+
+    <div class="form-group">
+        <label for="activeColor">{{localize settings.activeColor.name}}</label>
+        <div class="form-fields">
+            <select name="activeColor">
+                {{{selectOptions settings.activeColor.choices selected=settings.activeColor.value localize=true}}}
+            </select>
+        </div>
+        <p class="notes">{{localize settings.activeColor.hint}}</p>
+    </div>
+
+    <div class="form-group">
+        <label for="headerButton">{{localize settings.headerButton.name}}</label>
+        <div class="form-fields">
+            <input type="checkbox" name="headerButton" {{checked settings.headerButton.value}}/>
+        </div>
+        <p class="notes">{{localize settings.headerButton.hint}}</p>
+    </div>
+
+    <div class="form-group">
+        <button type="submit" name="submit">
+            <i class="far fa-save"></i> {{localize "CharacterGallery.SaveButton"}}
+        </button>
+    </div>
+</form>

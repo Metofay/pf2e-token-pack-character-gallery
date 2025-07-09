@@ -1,0 +1,479 @@
+body.vtt.theme-light #character-gallery,
+body.vtt.theme-light #character-gallery-sheet-config {
+  --color-background-alternate: #83838315;
+  --color-background-highlight: #60402010;
+  --color-background-hover: #5e5e5e20;
+  --color-background-selected: #5e5e5e20;
+  --color-background-total: inherit;
+  --color-background-transparent: #77606030;
+  --color-border-gray: #909090;
+  --color-fieldset-legend-shadow: white;
+  --color-highlight-hover: orange;
+  --inset-border: #ffffff70;
+  --inset-shadow: #50302060;
+  --offset-border: #ffffff70;
+  --offset-shadow: #503020aa;
+}
+body.vtt.theme-dark #character-gallery,
+body.vtt.theme-dark #character-gallery-sheet-config {
+  --color-border-gray: #bababa50;
+  --color-background-total: #040404;
+  --color-background-highlight: #20202040;
+  --color-background-alternate: #bababa15;
+  --color-highlight-hover: orange;
+  --color-background-hover: #afafaf20;
+  --color-background-transparent: #60606010;
+  --color-fieldset-legend-shadow: black;
+  --inset-border: #4d4d4d70;
+  --inset-shadow: black;
+  --offset-border: #292929;
+  --offset-shadow: black;
+}
+#character-gallery,
+#character-gallery-sheet-config {
+  --color-background-hover: #afafaf20;
+  --color-background-selected: #afafaf20;
+  --color-highlight-hover: orange;
+  --color-highlight-selected: #ffa50080;
+  --tag-trim-gold: #d5b714;
+  --tag-trim-grey: #9c9c9c;
+  --tag-back-grey: #2c2c2c;
+  --tag-text-white: white;
+  --tag-text-grey: #808080;
+}
+#character-gallery .inset,
+#character-gallery-sheet-config .inset,
+#character-gallery fieldset,
+#character-gallery-sheet-config fieldset,
+#character-gallery .grid figure,
+#character-gallery-sheet-config .grid figure,
+#character-gallery search > input,
+#character-gallery-sheet-config search > input {
+  box-shadow: 0 0 4px inset var(--inset-shadow);
+  border: 1px solid var(--inset-border);
+}
+#character-gallery .offset,
+#character-gallery-sheet-config .offset,
+#character-gallery button:not(.tag),
+#character-gallery-sheet-config button:not(.tag) {
+  border: 1px solid var(--offset-border);
+  box-shadow: 0 0 2px var(--offset-shadow);
+}
+#character-gallery [data-active-color="red"],
+#character-gallery-sheet-config [data-active-color="red"],
+#character-gallery .groups[data-active-color="red"],
+#character-gallery-sheet-config .groups[data-active-color="red"],
+#character-gallery .grid[data-active-color="red"],
+#character-gallery-sheet-config .grid[data-active-color="red"] {
+  --tag-back-active: #7e2626;
+  --color-highlight-selected: #7e262680;
+  --color-background-selected: #7e262650;
+}
+#character-gallery [data-active-color="green"],
+#character-gallery-sheet-config [data-active-color="green"],
+#character-gallery .groups[data-active-color="green"],
+#character-gallery-sheet-config .groups[data-active-color="green"],
+#character-gallery .grid[data-active-color="green"],
+#character-gallery-sheet-config .grid[data-active-color="green"] {
+  --tag-back-active: #2c751f;
+  --color-highlight-selected: #2c751f80;
+  --color-background-selected: #2c751f50;
+}
+#character-gallery [data-active-color="blue"],
+#character-gallery-sheet-config [data-active-color="blue"],
+#character-gallery .groups[data-active-color="blue"],
+#character-gallery-sheet-config .groups[data-active-color="blue"],
+#character-gallery .grid[data-active-color="blue"],
+#character-gallery-sheet-config .grid[data-active-color="blue"] {
+  --tag-back-active: #20458b;
+  --color-highlight-selected: #20458b80;
+  --color-background-selected: #20458b50;
+}
+#character-gallery-sheet-config div.tableScroll {
+  max-height: 20rem;
+  overflow: auto;
+  border-radius: 4px;
+}
+#character-gallery-sheet-config div.tableScroll thead {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+#character-gallery-sheet-config table {
+  margin: auto;
+  overflow: unset;
+  border: unset;
+}
+#character-gallery-sheet-config table th,
+#character-gallery-sheet-config table td {
+  padding: 0.25rem 0.5rem;
+  min-width: 5rem;
+}
+#character-gallery-sheet-config table .label {
+  width: 40%;
+}
+#character-gallery-sheet-config table .center {
+  width: 20%;
+  text-align: center;
+}
+#character-gallery-sheet-config table .gamemaster {
+  background-color: #c68cf12e;
+  border-left: 2px dotted #75757575;
+}
+#character-gallery-confirmation img {
+  box-shadow: none;
+  border: none;
+}
+#character-gallery-confirmation img.arrow {
+  transform: rotate(90deg);
+  max-width: 32px;
+}
+body.vtt.theme-light #character-gallery-confirmation img.arrow {
+  filter: invert(1);
+}
+#actors footer.directory-footer:not(:empty) {
+  align-items: center;
+  display: flex;
+  column-gap: 8px;
+  justify-content: center;
+  line-height: var(--sidebar-header-height);
+}
+#actors footer.directory-footer:not(:empty) button {
+  font-size: var(--font-size-13);
+  width: 100%;
+}
+#character-gallery {
+  backdrop-filter: blur(4px);
+  overflow: hidden;
+}
+#character-gallery:not(.minimized) {
+  min-height: 650px;
+  min-width: 700px;
+}
+#character-gallery .window-content {
+  background: var(--color-background-total);
+  flex-direction: row;
+  overflow: hidden;
+  padding: 0;
+}
+#character-gallery .window-content .sidebar {
+  flex: 0 0 270px;
+}
+#character-gallery .window-content .body {
+  flex: auto;
+  overflow: hidden;
+}
+#character-gallery .window-content .body .grid {
+  padding: 0.5rem 0rem;
+  scrollbar-gutter: stable both-edges;
+  scrollbar-width: auto;
+}
+#character-gallery .window-content,
+#character-gallery .window-content form,
+#character-gallery .window-content .body,
+#character-gallery .window-content .cg-scrollable-parent {
+  height: 100%;
+  overflow: overlay;
+}
+#character-gallery .window-content .cg-scrollable {
+  height: -webkit-fill-available;
+  height: fill-available;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+#character-gallery .window-content .cg-scrollable > h3 {
+  margin-top: 0.25rem;
+}
+#character-gallery .window-content fieldset {
+  background: var(--color-background-total);
+  border-radius: 6px;
+  margin: 0.5rem 0;
+  padding: 0.25rem;
+}
+#character-gallery .window-content fieldset legend {
+  text-shadow: 0 0 2px var(--color-fieldset-legend-shadow);
+  text-transform: capitalize;
+}
+#character-gallery .window-content ul {
+  list-style: circle;
+}
+#character-gallery .window-content label.split {
+  margin: 0.5rem 0;
+}
+#character-gallery .window-content .split {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#character-gallery .window-content .split p,
+#character-gallery .window-content .split h3 {
+  flex: 1 1;
+}
+#character-gallery .window-content .split p {
+  margin: 0;
+}
+#character-gallery .window-content .split i.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#character-gallery .window-content search {
+  border-radius: 4px;
+  margin: 0.25rem 0;
+}
+#character-gallery .window-content search > input {
+  border-radius: 4px;
+}
+#character-gallery .window-content i.button,
+#character-gallery .window-content i.info {
+  line-height: 100%;
+  min-height: 1rem;
+  min-width: 1rem;
+}
+#character-gallery .window-content i.button {
+  cursor: pointer;
+}
+#character-gallery .window-content i.info {
+  cursor: help;
+}
+#character-gallery .window-content input[type="checkbox"] {
+  margin: 0;
+}
+#character-gallery .window-content button {
+  outline: 0px none;
+  margin: 0.5rem 0;
+  width: 100%;
+}
+#character-gallery .window-content div.buttons {
+  display: flex;
+  gap: 0.25rem;
+  flex-direction: row;
+  align-items: baseline;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+#character-gallery .window-content .tag {
+  border: none;
+  border-radius: 2px;
+  box-shadow: 0 0 1px #afafaf80;
+  display: inline-block;
+  font-size: 0.7rem;
+  line-height: 0.9rem;
+  margin: 2px;
+  padding: 1px 4px;
+  text-transform: uppercase;
+  width: auto;
+  background: var(--tag-back-grey);
+  border-left: 2px solid var(--tag-trim-gold);
+  border-right: 2px solid var(--tag-trim-gold);
+  color: var(--tag-text-white);
+}
+#character-gallery .window-content .tag.include {
+  background: var(--tag-back-active);
+  text-decoration: underline;
+}
+#character-gallery .window-content .tag.exclude {
+  border-right: 2px solid var(--tag-trim-grey);
+  border-left: 2px solid var(--tag-trim-grey);
+  color: var(--tag-text-grey);
+  text-decoration: line-through;
+}
+#character-gallery .window-content p.results {
+  font-style: italic;
+  text-align: center;
+}
+#character-gallery .window-content h2 {
+  border-bottom: 2px groove var(--color-border-gray);
+  margin: 0 1rem 0.25rem 1rem;
+  text-align: center;
+}
+#character-gallery .window-content h3 {
+  font-size: 1.25rem;
+  border-bottom: 2px groove var(--color-border-gray);
+  margin: 0.75rem 0 0.5rem 0;
+}
+#character-gallery .window-content h4 {
+  border-bottom: 1px solid;
+  border-image: 10 stretch linear-gradient(to right, transparent 10%, var(--color-border-gray) 50%, transparent 90%);
+  font-size: 0.75rem;
+  margin: 0.5rem 0 0.25rem;
+  padding-bottom: 1px;
+  text-align: center;
+  text-transform: uppercase;
+}
+#character-gallery .window-content h2,
+#character-gallery .window-content h3,
+#character-gallery .window-content h4 {
+  color: var(--color-text-primary);
+  text-shadow: none;
+}
+#character-gallery .window-content aside.sidebar {
+  background-color: var(--color-background-highlight);
+  display: flex;
+  flex-direction: column;
+  min-width: 256px;
+  overflow: hidden;
+}
+#character-gallery .window-content aside.sidebar section.panel {
+  padding: 0 0.5rem;
+}
+#character-gallery .window-content aside.sidebar section.panel fieldset.target {
+  padding: 0.75rem 0.5rem;
+  margin: 0.5rem 0 0.75rem 0;
+  border-radius: 8px;
+}
+#character-gallery .window-content aside.sidebar section.panel fieldset.target div.target {
+  align-items: center;
+  display: flex;
+  gap: 0.5rem;
+  justify-content: space-between;
+  margin-top: -0.5rem;
+}
+#character-gallery .window-content aside.sidebar section.panel fieldset.target div.target img {
+  border: none;
+  max-width: 3rem;
+}
+#character-gallery .window-content aside.sidebar section.panel fieldset.target div.target img,
+#character-gallery .window-content aside.sidebar section.panel fieldset.target div.target p {
+  max-height: 3rem;
+}
+#character-gallery .window-content aside.sidebar section.panel fieldset.target div.target p {
+  margin: 0;
+  text-align: center;
+  width: 100%;
+}
+#character-gallery .window-content aside.sidebar section.panel.target {
+  border-top: 2px groove var(--color-border-gray);
+}
+#character-gallery .window-content aside.sidebar section.panel.target button {
+  height: 1.5rem;
+}
+#character-gallery .window-content aside.sidebar.filters {
+  border-radius: 0 4px 0 0;
+}
+#character-gallery .window-content aside.sidebar.filters fieldset.collapsible[data-collapsed="true"] {
+  cursor: pointer;
+  max-height: 2.25rem;
+  overflow: hidden;
+}
+#character-gallery .window-content aside.sidebar.filters fieldset.collapsible[data-collapsed="true"] button {
+  filter: opacity(0.5);
+  pointer-events: none;
+}
+#character-gallery .window-content aside.sidebar.filters fieldset.collapsible legend {
+  cursor: pointer;
+}
+#character-gallery .window-content aside.sidebar.filters fieldset.collapsible legend i {
+  min-width: 0.75rem;
+}
+#character-gallery .window-content aside.sidebar.info {
+  border-radius: 4px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+#character-gallery .window-content aside.sidebar.info section.selection {
+  background-position: 50% 20%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+  overflow: hidden;
+}
+#character-gallery .window-content aside.sidebar.info section.selection header,
+#character-gallery .window-content aside.sidebar.info section.selection .data {
+  backdrop-filter: blur(2px);
+}
+#character-gallery .window-content aside.sidebar.info section.selection header {
+  align-items: center;
+  background: linear-gradient(to top, transparent 20%, var(--color-background-transparent));
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0.75rem;
+}
+#character-gallery .window-content aside.sidebar.info section.selection header div {
+  display: flex;
+  justify-content: space-around;
+  width: 2.5rem;
+}
+#character-gallery .window-content aside.sidebar.info section.selection .data {
+  background: linear-gradient(to bottom, transparent 20%, var(--color-background-transparent));
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+#character-gallery .window-content aside.sidebar.info section.selection .data label:nth-child(odd) {
+  background: var(--color-background-alternate);
+  border-radius: 4px;
+}
+#character-gallery .window-content aside.sidebar.info section.selection .data label {
+  min-height: 2rem;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+#character-gallery .window-content aside.sidebar.info section.selection .data label p {
+  margin: 0.25rem;
+}
+#character-gallery .window-content aside.sidebar.info section.selection .data label p.value {
+  text-align: right;
+}
+#character-gallery .window-content .grid {
+  align-content: start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  justify-content: center;
+  padding: 0.5rem 1rem;
+  scrollbar-gutter: stable;
+  scrollbar-width: auto;
+}
+#character-gallery .window-content .grid .preview {
+  cursor: pointer;
+  height: 190px;
+  width: 140px;
+}
+#character-gallery .window-content .grid .preview.excluded {
+  display: none;
+}
+#character-gallery .window-content .grid .preview figure {
+  background-color: var(--color-background-highlight);
+  border-radius: 6px;
+  padding: 0.25rem 0 0 0;
+  margin: 0;
+  border-radius: 10px;
+  height: 100%;
+}
+#character-gallery .window-content .grid .preview figure img {
+  margin: 0;
+  border: 0px none;
+  height: 156px;
+  width: 100%;
+  object-fit: contain;
+  box-shadow: none;
+}
+#character-gallery .window-content .grid .preview figure figcaption {
+  margin: 0;
+  padding: 0.25rem;
+  font-size: 12px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+#character-gallery .window-content .grid .preview:hover figure {
+  background: var(--color-background-hover);
+}
+#character-gallery .window-content .grid .preview:hover figure img {
+  transition: linear 0.2s;
+  scale: 105%;
+}
+#character-gallery .window-content .grid .preview.selected figure {
+  box-shadow: 0 0 8px inset var(--color-background-selected);
+  border: 1px solid var(--color-highlight-selected);
+}

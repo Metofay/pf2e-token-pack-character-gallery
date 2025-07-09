@@ -1,0 +1,67 @@
+<aside class="sidebar info" data-application-part="details">
+  <section class="selection"{{#if selected}} data-selection={{selected.key}} style="background-image: url('{{lookup selected.art preview}}')"{{/if}}>
+    {{#if selected}}
+      <header>
+        <div>
+          {{!<i data-action="toggleFavourite" data-active=false data-tooltip="Add to Favourites" class="fas fa-star"></i>}}
+          <i data-tooltip="{{concat (localize "CharacterGallery.TOOLTIP.source") "<br/><em>" selected.source "</em>"}}" class="info fa-solid fa-books"></i>
+        </div>
+        <p>{{selected.label}}</p>
+        <div>
+          <i data-action="inspectImage" data-tooltip="CharacterGallery.TOOLTIP.inspectImage" class="button inspectImage fas fa-magnifying-glass"></i>
+          {{#if (eq preview "token")}}
+            <i data-action="togglePreview" data-tooltip="CharacterGallery.TOOLTIP.togglePreviewPortrait" class="button previewPortrait fas fa-portrait"></i>
+          {{else}}
+            <i data-action="togglePreview" data-tooltip="CharacterGallery.TOOLTIP.togglePreviewToken" class="button previewToken fas fa-chess-pawn"></i>
+          {{/if}}
+        </div>
+      </header>
+      <section class="panel data">
+        {{#each tagGroups as |group|}}
+          {{#if (lookup ../selected.tags group.key)}}
+            <label data-tooltip="{{concat "CharacterGallery.Tags." group.key ".hint"}}">
+              <p class="key">{{localize (concat "CharacterGallery.Tags." group.key ".label")}}</p>
+              <p class="value">{{#each (lookup ../selected.tags group.key) as |tag|}}<span class="tag">{{localize (concat "CharacterGallery.TAGS." tag)}}</span>{{/each}}</p>
+            </label>
+          {{/if}}
+        {{else}}
+          {{{localize "CharacterGallery.HINT.noTagsFound"}}}
+        {{/each}}
+      </section>
+    {{else}}
+      <section class="panel">
+        {{{localize "CharacterGallery.HINT.selectionDetails"}}}
+      </section>
+    {{/if}}
+  </section>
+
+  <section class="target panel">
+    {{#if targetActor}}
+      <fieldset class="target">
+        <legend>{{localize "CharacterGallery.HEADER.targetActor"}}</legend>
+        <div class="target">
+          <img data-tooltip="CharacterGallery.TOOLTIP.targetActor" src="{{targetActor.img}}">
+          <p data-tooltip="CharacterGallery.TOOLTIP.targetPortrait">{{targetActor.name}}</p>
+          <img data-tooltip="CharacterGallery.TOOLTIP.targetToken" src="{{targetActor.prototypeToken.texture.src}}">
+        </div>
+      </fieldset>
+      {{#if selected}}
+        <button
+          type="button"
+          data-action="replaceArtwork"
+          class="replace"
+          data-tooltip="CharacterGallery.TOOLTIP.replaceArtwork"
+          aria-label="Assign the selected artwork to the target actor."
+        ><i class="fa-solid fa-stamp"></i>{{localize "CharacterGallery.BUTTON.replaceArtwork"}}</button>
+      {{/if}}
+    {{/if}}
+
+    {{#if selected}}
+      <button
+        type="button"
+        data-action="createActor"
+        data-tooltip="CharacterGallery.TOOLTIP.createNew"
+      ><i class="fa-solid fa-plus"></i> {{localize "CharacterGallery.BUTTON.createNew"}}</button>
+    {{/if}}
+  </section>
+</aside>

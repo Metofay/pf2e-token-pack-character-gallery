@@ -1,0 +1,41 @@
+<div data-active-color="{{activeColor}}">
+
+  <p>
+    {{localize 'CharacterGallery.Configure.Prompt1'}}
+    {{localize 'CharacterGallery.Configure.Prompt2'}}
+  </p>
+
+  </section>
+
+  <div class="tableScroll">
+    <table data-sheets>
+      <thead>
+        <tr>
+          <th class="label" title="{{localize 'CharacterGallery.Configure.HeaderDatasheetNameHint'}}">{{localize 'CharacterGallery.Configure.HeaderDatasheetName'}}</th>
+          <th class="center" title="{{localize 'CharacterGallery.Configure.HeaderEntriesHint'}}">{{localize 'CharacterGallery.Configure.HeaderEntries'}}</th>
+          <th class="center" title="{{localize 'CharacterGallery.Configure.HeaderIncludeHint'}}">{{localize 'CharacterGallery.Configure.HeaderInclude'}}</th>
+          {{#if user.isGM}}
+            <th class="center gamemaster" title="{{localize 'CharacterGallery.Configure.HeaderHideHint'}}">{{localize 'CharacterGallery.Configure.HeaderHide'}}</th>
+          {{/if}}
+        </tr>
+      </thead>
+      <tbody>
+        {{#each sheets as |sheet|}}
+          <tr data-module-id="{{module.id}}" data-sheet-id="{{sheet.id}}">
+            <td class="label" title="{{sheet.hint}}">{{sheet.label}}</td>
+            <td class="center">{{sheet.data.length}}</td>
+            <td class="center">
+              <input type="checkbox" data-included {{checked sheet.included}} />
+            </td>
+            {{#if ../user.isGM}}
+              <td class="center gamemaster">
+                <input type="checkbox" data-restricted {{checked sheet.restricted}} />
+              </td>
+            {{/if}}
+          </tr>
+        {{/each}}
+      </tbody>
+    </table>
+  </div>
+
+</div>

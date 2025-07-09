@@ -1,0 +1,30 @@
+<section class="panel groups cg-scrollable" data-active-color="{{activeColor}}">
+  <header class="split">
+    <h3>{{localize "CharacterGallery.HEADER.tags"}}</h3>
+    <i data-action="resetTags" data-tooltip="{{localize "CharacterGallery.BUTTON.resetFilters"}}" class="button fas fa-arrows-rotate-reverse"></i>
+  </header>
+  {{#each tagGroups as |group|}}
+    <fieldset data-group="{{key}}" class="filters tags collapsible" data-collapsed="{{group.collapsed}}" {{#if group.collapsed}}data-action="collapseGroup"{{/if}}>
+      <legend data-action="collapseGroup" data-group="{{key}}">
+        <i class="button fa-solid fa-caret-{{#if group.collapsed}}right{{else}}down{{/if}}"></i>
+        {{localize (concat "CharacterGallery.Tags." group.key ".label")}}
+      </legend>
+      {{#if groups}}
+        {{#each groups as |subcategory|}}
+          <div class="subcategory">
+            {{#if (eq @index 0)}}{{else}}<h4>{{localize (concat "CharacterGallery.Tags." subcategory.key ".label")}}</h4>{{/if}}
+            {{#each subcategory.tags as |tag|}}
+              <button type="button" data-action="toggleTag" data-tag="{{tag}}" data-group="{{../key}}" class="tag">{{localize (concat "CharacterGallery.TAGS." tag)}}</button>
+            {{/each}}
+          </div>
+        {{/each}}
+      {{else}}
+        {{#each tags as |tag|}}
+          <button type="button" data-action="toggleTag" data-tag="{{tag}}" data-group="{{../key}}" class="tag">{{localize (concat "CharacterGallery.TAGS." tag)}}</button>
+        {{/each}}
+      {{/if}}
+    </fieldset>
+  {{else}}
+    {{{localize "CharacterGallery.HINT.noDataFound"}}}
+  {{/each}}
+</section>
