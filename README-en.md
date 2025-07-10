@@ -9,8 +9,6 @@ This additional module for **Foundry VTT** adds the Character Gallery to the **P
 
 ## ⚙️ Module functionality
 
-In addition to simply adding content, the module offers several powerful tools:
-
 ### 1. Character Gallery
 Adds a new mechanic of a large, fully localized library of art "Character Gallery" for images that are not in the standard compendiums.
 
