@@ -1,4 +1,4 @@
-# Pathfinder 2E: Token Pack от Metofay
+# Pathfinder 2E: Token Pack (Character Gallery) от Metofay
 
 [![Version (latest)](https://img.shields.io/github/v/release/Metofay/pf2e-token-pack-character-gallery)](https://github.com/Metofay/pf2e-token-pack-character-gallery/releases/latest)
 ![Data-release](https://img.shields.io/github/release-date/Metofay/pf2e-token-pack-character-gallery)
