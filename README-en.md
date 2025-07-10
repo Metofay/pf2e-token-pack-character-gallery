@@ -1,7 +1,7 @@
 [![Version (latest)](https://img.shields.io/github/v/release/Metofay/pf2e-token-pack-character-gallery)](https://github.com/Metofay/pf2e-token-pack-character-gallery/releases/latest)
 ![Data-release](https://img.shields.io/github/release-date/Metofay/pf2e-token-pack-character-gallery)
 [![Boosty](https://img.shields.io/badge/Boosty-Metofay?logo=boosty&color=%23FFFFFF)](https://boosty.to/metofay)
-[![ru](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/pf2e-token-pack-character-gallery/blob/master/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/Metofay/pf2e-token-pack-character-gallery/blob/master/README.md)
 
 ## 🐲 About the module
 
