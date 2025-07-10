@@ -5,7 +5,7 @@
 
 ## 🐲 About the module
 
-This additional module for **Foundry VTT** adds the Character Gallery to the **Pathfinder 2e** system, works with integration into the main module [**Pathfinder 2E: Token Pack**](https://github.com/Metofay/pf2e-token-pack). It will not work separately, since in the future I plan to add art from compendiums to the Gallery.
+This additional module for **Foundry VTT** adds a Character Gallery to the **Pathfinder 2e** system, works with integration into the main module [**Pathfinder 2E: Token Pack**](https://github.com/Metofay/pf2e-token-pack). It will work separately, but not later, since in the future I plan to add art from compendiums to the Gallery.
 
 ## ⚙️ Module functionality
 
