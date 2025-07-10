@@ -1,4 +1,4 @@
-# Pathfinder 2E: Token Pack от Metofay
+# Pathfinder 2E: Token Pack (Character Gallery) от Metofay
 
 [![Version (latest)](https://img.shields.io/github/v/release/Metofay/pf2e-token-pack-character-gallery)](https://github.com/Metofay/pf2e-token-pack-character-gallery/releases/latest)
 ![Data-release](https://img.shields.io/github/release-date/Metofay/pf2e-token-pack-character-gallery)
@@ -8,7 +8,7 @@
 
 ## 🐲 О модуле
 
-Этот дополнительный модуль для **Foundry VTT** добавляет в систему **Pathfinder 2e** Галерею Персонажей работает как отдельно, так и с интеграцией основного модуля [**Pathfinder 2E: Token Pack**](https://github.com/Metofay/pf2e-token-pack).
+Этот дополнительный модуль для **Foundry VTT** добавляет в систему **Pathfinder 2e** Галерею Персонажей, работает с интеграцией в основной модуль [**Pathfinder 2E: Token Pack**](https://github.com/Metofay/pf2e-token-pack). Отдельно работать не будет, так как в будущем планирую добавлять в Глерею и арты из компендиумов.
 
 ## ⚙️ Функционал модуля
 
@@ -24,7 +24,7 @@
 1.  В меню настройки модулей Foundry VTT нажмите **"Install Module"**.
 2.  В поле "Manifest URL" вставьте следующую ссылку:
     ```
-    [https://raw.githubusercontent.com/Metofay/pf2e-token-pack-character-gallery//main/module.json]
+    https://raw.githubusercontent.com/Metofay/pf2e-token-pack-character-gallery//main/module.json
     ```
 3.  Нажмите **"Install"** и дождитесь окончания установки.
 4.  Активируйте модуль в настройках вашего игрового мира.

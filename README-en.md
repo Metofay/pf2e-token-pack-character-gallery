@@ -1,6 +1,11 @@
+[![Version (latest)](https://img.shields.io/github/v/release/Metofay/pf2e-token-pack-character-gallery)](https://github.com/Metofay/pf2e-token-pack-character-gallery/releases/latest)
+![Data-release](https://img.shields.io/github/release-date/Metofay/pf2e-token-pack-character-gallery)
+[![Boosty](https://img.shields.io/badge/Boosty-Metofay?logo=boosty&color=%23FFFFFF)](https://boosty.to/metofay)
+[![ru](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/pf2e-token-pack-character-gallery/blob/master/README.md)
+
 ## 🐲 About the module
 
-This additional module for **Foundry VTT** adds the Character Gallery to the **Pathfinder 2e** system. It works both separately and with the integration of the main module [**Pathfinder 2E: Token Pack**](https://github.com/Metofay/pf2e-token-pack).
+This additional module for **Foundry VTT** adds the Character Gallery to the **Pathfinder 2e** system, works with integration into the main module [**Pathfinder 2E: Token Pack**](https://github.com/Metofay/pf2e-token-pack). It will not work separately, since in the future I plan to add art from compendiums to the Gallery.
 
 ## ⚙️ Module functionality
 
@@ -16,7 +21,7 @@ Adds a new mechanic of a large, fully localized library of art "Character Galler
 1. In the Foundry VTT module settings menu, click **"Install Module"**.
 2. In the "Manifest URL" field, paste the following link:
 ```
-[https://raw.githubusercontent.com/Metofay/pf2e-token-pack-character-gallery//main/module.json]
+https://raw.githubusercontent.com/Metofay/pf2e-token-pack-character-gallery//main/module.json
 ```
 3. Click **"Install"** and wait for the installation to complete.
 4. Activate the module in your game world settings.
