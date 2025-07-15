@@ -1,0 +1,797 @@
+[
+  {
+    "label": "Dwarf Cleric of Torag",
+    "key": "dwarf-cleric-of-torag",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Dwarf-Female-Cleric.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Dwarf-Female-Cleric.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Dwarf-Female-Cleric.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "dwarf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "bludgeon",
+        "shield",
+        "heavy",
+        "knife"
+      ],
+      "family": [
+        "warrior",
+        "officer"
+      ]
+    }
+  },
+  {
+    "label": "Dwarf Fighter",
+    "key": "dwarf-fighter",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Dwarf-Female-Fighter.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Dwarf-Female-Fighter.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Dwarf-Female-Fighter.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "dwarf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "axe",
+        "heavy",
+        "knife",
+        "shield"
+      ],
+      "family": [
+        "warrior",
+        "officer"
+      ]
+    }
+  },
+  {
+    "label": "Dwarf Rogue",
+    "key": "dwarf-rogue",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Dwarf-Female-Rogue.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Dwarf-Female-Rogue.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Dwarf-Female-Rogue.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "dwarf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "sword",
+        "knife",
+        "clothing",
+        "light",
+        "medium"
+      ],
+      "family": [
+        "warrior",
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Dwarf Wizard",
+    "key": "dwarf-wizard",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Dwarf-Female-Wizard.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Dwarf-Female-Wizard.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Dwarf-Female-Wizard.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "dwarf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "focus",
+        "clothing",
+        "light",
+        "knife"
+      ],
+      "family": [
+        "warrior",
+        "sage",
+        "affluent"
+      ]
+    }
+  },
+  {
+    "label": "Elf Cleric of Sarenrae",
+    "key": "elf-cleric-of-sarenrae",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Elf-Female-Cleric.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Elf-Female-Cleric.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Elf-Female-Cleric.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "sword",
+        "focus",
+        "light",
+        "medium"
+      ],
+      "features": [
+        "magic"
+      ],
+      "family": [
+        "sage",
+        "warrior"
+      ]
+    }
+  },
+  {
+    "label": "Elf Pirate",
+    "key": "elf-pirate",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Elf-Female-Pirate.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Elf-Female-Pirate.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Elf-Female-Pirate.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "knife",
+        "scroll",
+        "light",
+        "clothing",
+        "sword"
+      ],
+      "family": [
+        "warrior",
+        "civilian",
+        "outcast",
+        "seafarer"
+      ]
+    }
+  },
+  {
+    "label": "Elf Wizard",
+    "key": "elf-wizard",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Elf-Female-Wizard.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Elf-Female-Wizard.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Elf-Female-Wizard.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "sword",
+        "clothing",
+        "light",
+        "tome"
+      ],
+      "features": [
+        "magic",
+        "alchemy"
+      ],
+      "family": [
+        "sage",
+        "affluent"
+      ]
+    }
+  },
+  {
+    "label": "Human Cleric of Desna",
+    "key": "human-cleric-of-desna",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Elf-Male-Cleric.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Elf-Male-Cleric.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Elf-Male-Cleric.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "knife",
+        "starknife",
+        "medium"
+      ],
+      "features": [
+        "magic",
+        "companion"
+      ],
+      "family": [
+        "sage",
+        "warrior"
+      ]
+    }
+  },
+  {
+    "label": "Human Fighter",
+    "key": "human-fighter",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Human-Female-Fighter.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Human-Female-Fighter.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Human-Female-Fighter.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "sword",
+        "shield",
+        "heavy",
+        "knife"
+      ],
+      "family": [
+        "warrior",
+        "officer",
+        "affluent"
+      ]
+    }
+  },
+  {
+    "label": "Human Ranger",
+    "key": "human-ranger",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Human-Female-Ranger.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Human-Female-Ranger.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Human-Female-Ranger.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "bow",
+        "medium"
+      ],
+      "features": [
+        "alchemy"
+      ],
+      "family": [
+        "warrior"
+      ]
+    }
+  },
+  {
+    "label": "Human Rogue",
+    "key": "human-rogue",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Human-Female-Rogue.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Human-Female-Rogue.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Human-Female-Rogue.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "sword",
+        "knife",
+        "clothing",
+        "light"
+      ],
+      "family": [
+        "warrior",
+        "civilian",
+        "affluent"
+      ]
+    }
+  },
+  {
+    "label": "Human Wizard",
+    "key": "human-wizard",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Human-Female-Wizard.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Human-Female-Wizard.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Human-Female-Wizard.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "focus",
+        "bludgeon",
+        "clothing",
+        "light"
+      ],
+      "features": [
+        "magic"
+      ],
+      "family": [
+        "sage",
+        "civilian",
+        "affluent"
+      ]
+    }
+  },
+  {
+    "label": "Human Cleric of Sarenrae",
+    "key": "human-cleric-of-sarenrae",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Human-Male-Cleric.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Human-Male-Cleric.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Human-Male-Cleric.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "knife",
+        "sword",
+        "focus",
+        "clothing",
+        "light"
+      ],
+      "family": [
+        "sage",
+        "civilian",
+        "affluent"
+      ]
+    }
+  },
+  {
+    "label": "Human Mage",
+    "key": "human-mage",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Human-Male-Mage.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Human-Male-Mage.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Human-Male-Mage.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "tome",
+        "bludgeon",
+        "focus",
+        "clothing"
+      ],
+      "family": [
+        "sage",
+        "civilian"
+      ]
+    }
+  },
+  {
+    "label": "Human Student",
+    "key": "human-student",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Human-Male-Student.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Human-Male-Student.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Human-Male-Student.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "tome",
+        "scroll",
+        "clothing"
+      ],
+      "family": [
+        "sage",
+        "civilian"
+      ]
+    }
+  },
+  {
+    "label": "Ezren, the Wizard",
+    "key": "ezren,-the-wizard",
+    "source": "Player Character Pawn Collection",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Ezren.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Ezren.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Ezren.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "bludgeon",
+        "focus",
+        "knife"
+      ],
+      "features": [
+        "magic"
+      ],
+      "family": [
+        "civilian",
+        "sage",
+        "artisan"
+      ],
+      "special": [
+        "unique",
+        "iconic"
+      ]
+    }
+  },
+  {
+    "label": "Kyra, the Cleric",
+    "key": "kyra,-the-cleric",
+    "source": "Player Character Pawn Collection",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Kyra.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Kyra.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Kyra.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light",
+        "medium",
+        "sword"
+      ],
+      "family": [
+        "warrior",
+        "sage"
+      ],
+      "special": [
+        "unique",
+        "iconic"
+      ]
+    }
+  },
+  {
+    "label": "Merisiel, the Rogue",
+    "key": "merisiel,-the-rogue",
+    "source": "Player Character Pawn Collection",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Merisiel.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Merisiel.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Merisiel.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light",
+        "medium",
+        "sword",
+        "knife"
+      ],
+      "features": [
+        "dual-wielding"
+      ],
+      "family": [
+        "warrior"
+      ],
+      "special": [
+        "unique",
+        "iconic"
+      ]
+    }
+  },
+  {
+    "label": "Valeros, the Fighter",
+    "key": "valeros,-the-fighter",
+    "source": "Player Character Pawn Collection",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Valeros.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Valeros.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Valeros.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "medium",
+        "heavy",
+        "sword",
+        "shield"
+      ],
+      "family": [
+        "warrior"
+      ],
+      "special": [
+        "unique",
+        "iconic"
+      ]
+    }
+  },
+  {
+    "label": "Juvenile Horned Dragon",
+    "key": "juvenile-horned-dragon",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Green-Dragon-Wyrmling.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Green-Dragon-Wyrmling.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Green-Dragon-Wyrmling.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "dragon"
+      ],
+      "category": [
+        "draconic"
+      ]
+    }
+  },
+  {
+    "label": "Zolgran",
+    "key": "zolgran",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Kobold-Boss-Zolgran.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Kobold-Boss-Zolgran.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Kobold-Boss-Zolgran.webp",
+      "scale": 1.6
+    },
+    "tags": {
+      "ancestry": [
+        "kobold"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "axe",
+        "unarmored",
+        "light"
+      ],
+      "family": [
+        "warrior"
+      ]
+    }
+  },
+  {
+    "label": "Kobold Trapmaster",
+    "key": "kobold-trapmaster",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Kobold-Trapmaster.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Kobold-Trapmaster.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Kobold-Trapmaster.webp",
+      "scale": 1.6
+    },
+    "tags": {
+      "ancestry": [
+        "kobold"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "knife",
+        "unarmored",
+        "polearm"
+      ],
+      "family": [
+        "warrior",
+        "artisan"
+      ]
+    }
+  },
+  {
+    "label": "Bugbear Prowler",
+    "key": "bugbear-prowler",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Bugbear-Prowler.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Bugbear-Prowler.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Bugbear-Prowler.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "bugbear"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "sword",
+        "medium",
+        "polearm"
+      ],
+      "family": [
+        "warrior",
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Ghoul Stalker",
+    "key": "ghoul-stalker",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Ghoul-Stalker.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Ghoul-Stalker.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Ghoul-Stalker.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "ghoul"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "bludgeon",
+        "clothing"
+      ],
+      "family": [
+        "civilian",
+        "worker",
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Minotaur Hunter",
+    "key": "minotaur-hunter",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Minotaur-Hunter.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Minotaur-Hunter.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Minotaur-Hunter.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "minotaur"
+      ],
+      "category": [
+        "humanoid",
+        "hybrid",
+        "bestial"
+      ],
+      "equipment": [
+        "axe",
+        "unarmored"
+      ],
+      "family": [
+        "warrior"
+      ]
+    }
+  },
+  {
+    "label": "Orc Scrapper",
+    "key": "orc-scrapper",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Orc-Scrapper.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Orc-Scrapper.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Orc-Scrapper.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "orc"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "brawling",
+        "knife",
+        "medium"
+      ],
+      "family": [
+        "warrior"
+      ]
+    }
+  },
+  {
+    "label": "Witchwarg",
+    "key": "witchwarg",
+    "source": "Beginner Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/portraits/Witchwarg.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/thumbnails/Witchwarg.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/beginner-box/subjects/Witchwarg.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "bestial",
+        "mammalian"
+      ]
+    }
+  }
+]

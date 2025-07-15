@@ -1,6 +1,7 @@
 import {MODULE_ID, getActiveModuleId} from "./constants.mjs";
 import GalleryApplication from "./gallery.mjs";
 import {importDatasheets} from "./helpers.mjs";
+import {GALLERY_DATA, initializeGalleryDataTags} from "./data.mjs"; // Импортируем initializeGalleryDataTags
 import {registerSettings, registerSettingsMenu} from "./settings.mjs";
 
 /** @import from "./types.d.mjs"; */
@@ -23,6 +24,7 @@ Hooks.once("init", () => {
 Hooks.once("ready", async () => {
   // Initialize the gallery application
   await importDatasheets();
+  initializeGalleryDataTags(GALLERY_DATA);
   CharacterGallery.application = new GalleryApplication();
 });
 

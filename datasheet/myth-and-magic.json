@@ -567,67 +567,6 @@
     }
   },
   {
-    "label": "Samo, the Animist",
-    "key": "Animist-Samo",
-    "source": "PZO12006 - Pathfinder War of Immortals",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Animist-Samo.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Animist-Samo.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Animist-Samo.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "elf"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "clothing",
-        "bludgeon"
-      ],
-      "features": [
-        "magic"
-      ],
-      "family": [
-        "mystic"
-      ],
-      "special": [
-        "iconic"
-      ]
-    }
-  },
-  {
-    "label": "Nahoa, the Exemplar",
-    "key": "Exemplar-Nahoa",
-    "source": "PZO12006 - Pathfinder War of Immortals",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Exemplar-Nahoa.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Exemplar-Nahoa.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Exemplar-Nahoa.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "polearm",
-        "light"
-      ],
-      "features": [
-        "two-handed"
-      ],
-      "special": [
-        "iconic"
-      ]
-    }
-  },
-  {
     "label": "Immortal Trickster",
     "key": "Trickster-Immortal",
     "source": "PZO12006 - Pathfinder War of Immortals",
@@ -814,67 +753,6 @@
     }
   },
   {
-    "label": "Nahoa, the Exemplar",
-    "key": "Exemplar-Nahoa-Mythic",
-    "source": "PZO12006 - Pathfinder War of Immortals",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Exemplar-Nahoa-Mythic.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Exemplar-Nahoa-Mythic.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Exemplar-Nahoa-Mythic.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "polearm",
-        "light"
-      ],
-      "features": [
-        "two-handed"
-      ],
-      "special": [
-        "iconic"
-      ]
-    }
-  },
-  {
-    "label": "Samo, the Animist",
-    "key": "Animist-Samo-Mythic",
-    "source": "PZO12006 - Pathfinder War of Immortals",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Animist-Samo-Mythic.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Animist-Samo-Mythic.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Animist-Samo-Mythic.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "elf"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "clothing",
-        "bludgeon"
-      ],
-      "features": [
-        "magic"
-      ],
-      "family": [
-        "mystic"
-      ],
-      "special": [
-        "iconic"
-      ]
-    }
-  },
-  {
     "label": "Mythic Griffon",
     "key": "Griffon-Mythic",
     "source": "PZO12006 - Pathfinder War of Immortals",
@@ -1037,23 +915,6 @@
       ],
       "special": [
         "iconic"
-      ]
-    }
-  },
-  {
-    "label": "Raven",
-    "key": "Raven",
-    "source": "PZO12006 - Pathfinder War of Immortals",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Raven.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Raven.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Raven.webp",
-      "scale": 1
-    },
-    "tags": {
-      "category": [
-        "bestial",
-        "avian"
       ]
     }
   },
@@ -1272,7 +1133,7 @@
         "humanoid"
       ],
       "equipment": [
-        "mediumbow",
+        "bow",
         "sword",
         "axe"
       ],
@@ -1596,7 +1457,7 @@
       ],
       "equipment": [
         "medium",
-        "shiled",
+        "shield",
         "sword"
       ],
       "special": [
@@ -3583,32 +3444,6 @@
     }
   },
   {
-    "label": "Treerazer",
-    "key": "Treerazer",
-    "source": "PZO13003 - Pathfinder Lost Omens: Divine Mysteries",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Treerazer.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Treerazer.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Treerazer.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine",
-        "fiendish"
-      ],
-      "equipment": [
-        "axe"
-      ],
-      "features": [
-        "winged"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
     "label": "Tsukiyo",
     "key": "Tsukiyo",
     "source": "PZO13003 - Pathfinder Lost Omens: Divine Mysteries",
@@ -3732,26 +3567,6 @@
     }
   },
   {
-    "label": "Vulot",
-    "key": "Vulot",
-    "source": "PZO13003 - Pathfinder Lost Omens: Divine Mysteries",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Vulot.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Vulot.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Vulot.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine",
-        "fiendish"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
     "label": "Warmonger Kazutal",
     "key": "Kazutal-Warmonger",
     "source": "PZO13003 - Pathfinder Lost Omens: Divine Mysteries",
@@ -3789,9 +3604,6 @@
       "scale": 1
     },
     "tags": {
-      "features": [
-        "swarm"
-      ],
       "special": [
         "swarm"
       ]
@@ -4115,35 +3927,6 @@
       "family": [
         "mystic",
         "civilian"
-      ]
-    }
-  },
-  {
-    "label": "Necromancer",
-    "key": "Necromancer",
-    "source": "PZO2108 - Pathfinder Secrets of Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Necromancer.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Necromancer.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Necromancer.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "dwarf"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "light"
-      ],
-      "features": [
-        "magic"
-      ],
-      "family": [
-        "mystic",
-        "outcast"
       ]
     }
   },
@@ -4667,7 +4450,7 @@
       "equipment": [
         "medium",
         "knife",
-        "blugeon"
+        "bludgeon"
       ],
       "features": [
         "magic",
@@ -4741,40 +4524,6 @@
     }
   },
   {
-    "label": "Seltyiel, the Magus",
-    "key": "Class-Header-Magus-Seltyiel",
-    "source": "PZO2108 - Pathfinder Secrets of Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Class-Header-Magus-Seltyiel.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Class-Header-Magus-Seltyiel.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Class-Header-Magus-Seltyiel.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "aiuvarin"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "light",
-        "sword",
-        "focus"
-      ],
-      "features": [
-        "magic"
-      ],
-      "family": [
-        "warrior",
-        "mystic"
-      ],
-      "special": [
-        "iconic"
-      ]
-    }
-  },
-  {
     "label": "Runelord",
     "key": "Runelord-Wizard",
     "source": "PZO2108 - Pathfinder Secrets of Magic",
@@ -4829,35 +4578,6 @@
       "family": [
         "artisan",
         "civilian"
-      ]
-    }
-  },
-  {
-    "label": "God Caller",
-    "key": "Summoner-God-Caller",
-    "source": "PZO2108 - Pathfinder Secrets of Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Summoner-God-Caller.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Summoner-God-Caller.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Summoner-God-Caller.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "medium"
-      ],
-      "features": [
-        "magic"
-      ],
-      "family": [
-        "devotee",
-        "mystic"
       ]
     }
   },
@@ -4983,37 +4703,6 @@
       "family": [
         "mystic",
         "warrior"
-      ]
-    }
-  },
-  {
-    "label": "Ija, the Summoner",
-    "key": "Class-Header-Summoner-Ija",
-    "source": "PZO2108 - Pathfinder Secrets of Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Class-Header-Summoner-Ija.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Class-Header-Summoner-Ija.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Class-Header-Summoner-Ija.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "clothing"
-      ],
-      "features": [
-        "magic"
-      ],
-      "family": [
-        "mystic"
-      ],
-      "special": [
-        "iconic"
       ]
     }
   },
@@ -5161,61 +4850,6 @@
       ],
       "family": [
         "devotee"
-      ]
-    }
-  },
-  {
-    "label": "Ghoul",
-    "key": "Ghoul",
-    "source": "PZO2110 - Pathfinder Book of the Dead",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Ghoul.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Ghoul.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Ghoul.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "ghoul"
-      ],
-      "category": [
-        "undead"
-      ],
-      "features": [
-        "undead"
-      ],
-      "family": [
-        "outcast"
-      ]
-    }
-  },
-  {
-    "label": "Lich",
-    "key": "Lich",
-    "source": "PZO2110 - Pathfinder Book of the Dead",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Lich.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Lich.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Lich.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "skeleton"
-      ],
-      "category": [
-        "undead"
-      ],
-      "equipment": [
-        "clothing",
-        "focus"
-      ],
-      "features": [
-        "undead"
-      ],
-      "family": [
-        "outcast",
-        "mystic"
       ]
     }
   },
@@ -7213,33 +6847,6 @@
     }
   },
   {
-    "label": "Zombie",
-    "key": "Zombie-Companion",
-    "source": "PZO2110 - Pathfinder Book of the Dead",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Zombie-Companion.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Zombie-Companion.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Zombie-Companion.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "zombie"
-      ],
-      "category": [
-        "undead"
-      ],
-      "equipment": [
-        "clothing",
-        "light-source"
-      ],
-      "features": [
-        "undead",
-        "companion"
-      ]
-    }
-  },
-  {
     "label": "Old Friend",
     "key": "Familiar-Undead-Old-Friend",
     "source": "PZO2110 - Pathfinder Book of the Dead",
@@ -7443,7 +7050,9 @@
         "aquatic"
       ],
       "features": [
-        "undead",
+        "undead"
+      ],
+      "special": [
         "swarm"
       ]
     }
@@ -7492,34 +7101,6 @@
       ],
       "features": [
         "undead"
-      ]
-    }
-  },
-  {
-    "label": "Wight",
-    "key": "Wight-Intro-Life-Drain",
-    "source": "PZO2110 - Pathfinder Book of the Dead",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Wight-Intro-Life-Drain.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Wight-Intro-Life-Drain.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Wight-Intro-Life-Drain.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "wight"
-      ],
-      "category": [
-        "undead"
-      ],
-      "equipment": [
-        "unarmored"
-      ],
-      "features": [
-        "undead"
-      ],
-      "special": [
-        "bust"
       ]
     }
   },
@@ -8523,35 +8104,6 @@
     }
   },
   {
-    "label": "Thaleon, the Psychic",
-    "key": "Psychic-Thaleon",
-    "source": "PZO2111 - Pathfinder Dark Archive",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Psychic-Thaleon.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Psychic-Thaleon.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Psychic-Thaleon.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "elf"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "dagger",
-        "clothing"
-      ],
-      "features": [
-        "magic"
-      ],
-      "special": [
-        "iconic"
-      ]
-    }
-  },
-  {
     "label": "Psychic Detective",
     "key": "Psychic-Multiclass",
     "source": "PZO2111 - Pathfinder Dark Archive",
@@ -8569,7 +8121,7 @@
         "humanoid"
       ],
       "equipment": [
-        "focus.clothing"
+        "unarmored"
       ],
       "features": [
         "magic"
@@ -8614,31 +8166,6 @@
       "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Reflection-Heritage-1.webp",
       "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Reflection-Heritage-1.webp",
       "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Reflection-Heritage-1.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "clothing"
-      ],
-      "family": [
-        "civilian"
-      ]
-    }
-  },
-  {
-    "label": "Reflection",
-    "key": "Reflection-Heritage-2",
-    "source": "PZO2111 - Pathfinder Dark Archive",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Reflection-Heritage-2.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Reflection-Heritage-2.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Reflection-Heritage-2.webp",
       "scale": 1
     },
     "tags": {
@@ -8835,35 +8362,6 @@
       ],
       "features": [
         "magic"
-      ]
-    }
-  },
-  {
-    "label": "Mios, the Thaumaturge",
-    "key": "Thaumaturge-Mios",
-    "source": "PZO2111 - Pathfinder Dark Archive",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Thaumaturge-Mios.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Thaumaturge-Mios.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Thaumaturge-Mios.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "light-source",
-        "medium",
-        "bludgeon",
-        "knife",
-        "focus"
-      ],
-      "special": [
-        "iconic"
       ]
     }
   },
@@ -10033,29 +9531,6 @@
     }
   },
   {
-    "label": "Aroden",
-    "key": "Aroden-1",
-    "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Aroden-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Aroden-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Aroden-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "medium",
-        "sword"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
     "label": "Cleric of Asmodeus",
     "key": "Cleric-Asmodeus",
     "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
@@ -10404,36 +9879,6 @@
     }
   },
   {
-    "label": "Dwarf Champion",
-    "key": "Dwarf-Champion",
-    "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Dwarf-Champion.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Dwarf-Champion.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Dwarf-Champion.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "dwarf"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "heavy",
-        "axe",
-        "sword"
-      ],
-      "features": [
-        "two-handed"
-      ],
-      "family": [
-        "devotee"
-      ]
-    }
-  },
-  {
     "label": "Worshipper of Hastur",
     "key": "Worshipper-Hastur",
     "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
@@ -10582,34 +10027,6 @@
       ],
       "family": [
         "devotee"
-      ]
-    }
-  },
-  {
-    "label": "Seelah, the Champion",
-    "key": "Champion-Seelah",
-    "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Champion-Seelah.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Champion-Seelah.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Champion-Seelah.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "heavy"
-      ],
-      "family": [
-        "devotee"
-      ],
-      "special": [
-        "iconic"
       ]
     }
   },
@@ -10849,32 +10266,6 @@
     }
   },
   {
-    "label": "Cleric of Calistria",
-    "key": "Cleric-Calistria-2",
-    "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Cleric-Calistria-2.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Cleric-Calistria-2.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Cleric-Calistria-2.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "medium",
-        "sword"
-      ],
-      "family": [
-        "devotee"
-      ]
-    }
-  },
-  {
     "label": "Feiya, the Witch",
     "key": "Witch-Feiya",
     "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
@@ -10920,37 +10311,6 @@
       "equipment": [
         "medium",
         "sword"
-      ],
-      "family": [
-        "devotee"
-      ]
-    }
-  },
-  {
-    "label": "Cleric of Pharasma",
-    "key": "Cleric-Pharasma-1",
-    "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Cleric-Pharasma-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Cleric-Pharasma-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Cleric-Pharasma-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "gnome"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "medium",
-        "focus",
-        "axe",
-        "bludgeon"
-      ],
-      "features": [
-        "dual-wielding"
       ],
       "family": [
         "devotee"
@@ -11208,36 +10568,6 @@
     }
   },
   {
-    "label": "Cleric of Nethys",
-    "key": "Cleric-Nethys-Human",
-    "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Cleric-Nethys-Human.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Cleric-Nethys-Human.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Cleric-Nethys-Human.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "tome",
-        "clothing",
-        "bludgeon"
-      ],
-      "features": [
-        "magic"
-      ],
-      "family": [
-        "devotee"
-      ]
-    }
-  },
-  {
     "label": "Arcanotheign (Herald of Nethys)",
     "key": "Herald-Nethys-Arcanotheign",
     "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
@@ -11383,32 +10713,6 @@
     }
   },
   {
-    "label": "Cleric of Urgathoa",
-    "key": "Cleric-Urgathoa-1",
-    "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Cleric-Urgathoa-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Cleric-Urgathoa-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Cleric-Urgathoa-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "orc"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "knife",
-        "medium"
-      ],
-      "family": [
-        "devotee"
-      ]
-    }
-  },
-  {
     "label": "Ahmuuth",
     "key": "Ahmuuth",
     "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
@@ -11426,35 +10730,6 @@
         "knife",
         "focus",
         "clothing"
-      ]
-    }
-  },
-  {
-    "label": "Cleric of Pharasma",
-    "key": "Cleric-Pharasma-3",
-    "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Cleric-Pharasma-3.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Cleric-Pharasma-3.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Cleric-Pharasma-3.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "clothing",
-        "knife"
-      ],
-      "features": [
-        "magic"
-      ],
-      "family": [
-        "devotee"
       ]
     }
   },
@@ -11598,60 +10873,6 @@
     }
   },
   {
-    "label": "Cleric of Sarenrae",
-    "key": "Cleric-Sarenrae",
-    "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Cleric-Sarenrae.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Cleric-Sarenrae.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Cleric-Sarenrae.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "light"
-      ],
-      "family": [
-        "devotee"
-      ]
-    }
-  },
-  {
-    "label": "Kyra, the Cleric",
-    "key": "Cleric-Kyra",
-    "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Cleric-Kyra.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Cleric-Kyra.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Cleric-Kyra.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "light",
-        "sword"
-      ],
-      "features": [
-        "magic"
-      ],
-      "family": [
-        "devotee"
-      ]
-    }
-  },
-  {
     "label": "The Spirit of Adoration (Herald of Sheyln)",
     "key": "Herald-Sheyln-Spirit-Adoration",
     "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
@@ -11700,58 +10921,6 @@
       ],
       "family": [
         "devotee"
-      ]
-    }
-  },
-  {
-    "label": "Cleric of Shelyn",
-    "key": "Cleric-Shelyn-2",
-    "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Cleric-Shelyn-2.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Cleric-Shelyn-2.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Cleric-Shelyn-2.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "aiuvarin"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "polearm",
-        "medium"
-      ],
-      "family": [
-        "devotee"
-      ]
-    }
-  },
-  {
-    "label": "Ezren, the Wizard",
-    "key": "Wizard-Ezren",
-    "source": "PZO9267 - Pathfinder Campaign Setting: Inner Sea Gods",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Wizard-Ezren.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Wizard-Ezren.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Wizard-Ezren.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "light",
-        "clothing"
-      ],
-      "features": [
-        "magic"
       ]
     }
   },
@@ -12172,32 +11341,6 @@
     }
   },
   {
-    "label": "Cleric of Milani",
-    "key": "Cleric-Milani-1",
-    "source": "PZO9290 - Pathfinder Campaign Setting: Inner Sea Faiths",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Cleric-Milani-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Cleric-Milani-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Cleric-Milani-1.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "bludgeon",
-        "medium"
-      ],
-      "family": [
-        "devotee"
-      ]
-    }
-  },
-  {
     "label": "Sivanah",
     "key": "Sivanah",
     "source": "PZO9290 - Pathfinder Campaign Setting: Inner Sea Faiths",
@@ -12242,30 +11385,6 @@
       ],
       "family": [
         "devotee"
-      ]
-    }
-  },
-  {
-    "label": "Zyphus",
-    "key": "Zyphus-1",
-    "source": "PZO9290 - Pathfinder Campaign Setting: Inner Sea Faiths",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Zyphus-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Zyphus-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Zyphus-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine",
-        "undead"
-      ],
-      "equipment": [
-        "medium",
-        "polearm"
-      ],
-      "special": [
-        "deity"
       ]
     }
   },
@@ -12562,35 +11681,6 @@
     }
   },
   {
-    "label": "Champion of Apsu",
-    "key": "Champion-Apsu-Draconic-Barrage",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Champion-Apsu-Draconic-Barrage.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Champion-Apsu-Draconic-Barrage.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Champion-Apsu-Draconic-Barrage.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "heavy",
-        "bludgeon"
-      ],
-      "features": [
-        "magic"
-      ],
-      "family": [
-        "devotee"
-      ]
-    }
-  },
-  {
     "label": "Erastil",
     "key": "Erastil",
     "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
@@ -12655,29 +11745,6 @@
       ],
       "special": [
         "deity"
-      ]
-    }
-  },
-  {
-    "label": "Priest of Gruhastha",
-    "key": "Priest-Gruhastha-Ghostly-Transcription",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Priest-Gruhastha-Ghostly-Transcription.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Priest-Gruhastha-Ghostly-Transcription.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Priest-Gruhastha-Ghostly-Transcription.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "tome",
-        "clothing"
       ]
     }
   },
@@ -12748,32 +11815,6 @@
       ],
       "features": [
         "magic"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Irori",
-    "key": "Irori",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Irori.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Irori.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Irori.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "clothing",
-        "brawling"
       ],
       "special": [
         "deity"
@@ -13005,82 +12046,6 @@
     }
   },
   {
-    "label": "Shizuru",
-    "key": "Shizuru-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Shizuru-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Shizuru-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Shizuru-1.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "heavy",
-        "sword"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Sivanah",
-    "key": "Sivanah-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Sivanah-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Sivanah-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Sivanah-1.webp",
-      "scale": 1
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "clothing"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Torag",
-    "key": "Torag-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Torag-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Torag-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Torag-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "swarf"
-      ],
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "bludgeon"
-      ],
-      "family": [
-        "artisan"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
     "label": "Urgathoa",
     "key": "Urgathoa",
     "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
@@ -13099,33 +12064,6 @@
       ],
       "special": [
         "deity"
-      ]
-    }
-  },
-  {
-    "label": "Champion of Shelyn",
-    "key": "Champion-Shelyn-Whirling-Scarves",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Champion-Shelyn-Whirling-Scarves.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Champion-Shelyn-Whirling-Scarves.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Champion-Shelyn-Whirling-Scarves.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "clothing",
-        "bludgeon"
-      ],
-      "family": [
-        "devotee",
-        "performer"
       ]
     }
   },
@@ -13203,103 +12141,6 @@
     }
   },
   {
-    "label": "Arazni",
-    "key": "Arazni-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Arazni-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Arazni-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Arazni-1.webp",
-      "scale": 1
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "clothing"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Besmara",
-    "key": "Besmara-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Besmara-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Besmara-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Besmara-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "clothing"
-      ],
-      "features": [
-        "alchemy"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Brigh",
-    "key": "Brigh-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Brigh-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Brigh-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Brigh-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine",
-        "constructed"
-      ],
-      "features": [
-        "magic",
-        "tech"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Cayden Cailean",
-    "key": "Cayden-Cailean",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Cayden-Cailean.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Cayden-Cailean.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Cayden-Cailean.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "sword",
-        "light"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
     "label": "Cyth-V'sug",
     "key": "Cyth-Vsug-1",
     "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
@@ -13316,51 +12157,6 @@
       ],
       "special": [
         "deity"
-      ]
-    }
-  },
-  {
-    "label": "Desna",
-    "key": "Desna-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Desna-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Desna-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Desna-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Cleric of Torag",
-    "key": "Cleric-Torag-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Cleric-Torag-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Cleric-Torag-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Cleric-Torag-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "heavy",
-        "bludgeon"
-      ],
-      "family": [
-        "devotee"
       ]
     }
   },
@@ -13413,123 +12209,6 @@
     }
   },
   {
-    "label": "Gozreh",
-    "key": "Gozreh-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Gozreh-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Gozreh-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Gozreh-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Gruhastha",
-    "key": "Gruhastha-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Gruhastha-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Gruhastha-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Gruhastha-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "features": [
-        "winged"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Iomedae",
-    "key": "Iomedae-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Iomedae-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Iomedae-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Iomedae-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "heavy",
-        "shield",
-        "sword"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Kazutal",
-    "key": "Kazutal-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Kazutal-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Kazutal-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Kazutal-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "bludgeon",
-        "knife",
-        "light"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Kurgess",
-    "key": "Kurgess-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Kurgess-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Kurgess-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Kurgess-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "divine"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
     "label": "Cleric of Lau Shu Po",
     "key": "Cleric-Lau-Shu-Po",
     "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
@@ -13554,92 +12233,6 @@
       ],
       "family": [
         "devotee"
-      ]
-    }
-  },
-  {
-    "label": "Pharasma",
-    "key": "Pharasma-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Pharasma-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Pharasma-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Pharasma-1.webp",
-      "scale": 1
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Rovagug",
-    "key": "Rovagug-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Rovagug-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Rovagug-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Rovagug-1.webp",
-      "scale": 1
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Sarenrae",
-    "key": "Sarenrae-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Sarenrae-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Sarenrae-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Sarenrae-1.webp",
-      "scale": 3
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "sword",
-        "light"
-      ],
-      "features": [
-        "winged"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Tsukiyo",
-    "key": "Tsukiyo-1",
-    "source": "PZO9303 - Pathfinder Lost Omens: Gods & Magic",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Tsukiyo-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Tsukiyo-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Tsukiyo-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "polearm"
-      ],
-      "special": [
-        "deity"
       ]
     }
   },
@@ -14087,25 +12680,6 @@
       ],
       "equipment": [
         "light"
-      ]
-    }
-  },
-  {
-    "label": "Krampus",
-    "key": "Krampus",
-    "source": "PZO9311 - Pathfinder Lost Omens: Monsters of Myth",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Krampus.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Krampus.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Krampus.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "bestial"
-      ],
-      "special": [
-        "unique"
       ]
     }
   },
@@ -14894,29 +13468,6 @@
     }
   },
   {
-    "label": "Arazni",
-    "key": "Arazni-2",
-    "source": "PZO9312 - Pathfinder Lost Omens: Knights of Lastwall",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Arazni-2.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Arazni-2.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Arazni-2.webp",
-      "scale": 1
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "clothing",
-        "sword"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
     "label": "Arqueros",
     "key": "Arqueros",
     "source": "PZO9312 - Pathfinder Lost Omens: Knights of Lastwall",
@@ -15041,57 +13592,6 @@
     }
   },
   {
-    "label": "Iomedae",
-    "key": "Iomedae-2",
-    "source": "PZO9312 - Pathfinder Lost Omens: Knights of Lastwall",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Iomedae-2.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Iomedae-2.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Iomedae-2.webp",
-      "scale": 1
-    },
-    "tags": {
-      "ancestry": [
-        "human"
-      ],
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "heavy",
-        "shield",
-        "sword"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Kazutal",
-    "key": "Kazutal-2",
-    "source": "PZO9312 - Pathfinder Lost Omens: Knights of Lastwall",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Kazutal-2.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Kazutal-2.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Kazutal-2.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "knife",
-        "bludgeon",
-        "medium"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
     "label": "Kols",
     "key": "Kols",
     "source": "PZO9312 - Pathfinder Lost Omens: Knights of Lastwall",
@@ -15111,106 +13611,6 @@
       "equipment": [
         "tome",
         "clothing"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Milani",
-    "key": "Milani-1",
-    "source": "PZO9312 - Pathfinder Lost Omens: Knights of Lastwall",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Milani-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Milani-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Milani-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "shield",
-        "heavy",
-        "bludgeon"
-      ],
-      "features": [
-        "winged"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Pharasma",
-    "key": "Pharasma-2",
-    "source": "PZO9312 - Pathfinder Lost Omens: Knights of Lastwall",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Pharasma-2.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Pharasma-2.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Pharasma-2.webp",
-      "scale": 1
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "knife",
-        "shield",
-        "clothing"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Sarenrae",
-    "key": "Sarenrae-2",
-    "source": "PZO9312 - Pathfinder Lost Omens: Knights of Lastwall",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Sarenrae-2.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Sarenrae-2.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Sarenrae-2.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "light"
-      ],
-      "features": [
-        "magic",
-        "winged"
-      ],
-      "special": [
-        "deity"
-      ]
-    }
-  },
-  {
-    "label": "Shelyn",
-    "key": "Shelyn-1",
-    "source": "PZO9312 - Pathfinder Lost Omens: Knights of Lastwall",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Shelyn-1.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Shelyn-1.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Shelyn-1.webp",
-      "scale": 2
-    },
-    "tags": {
-      "category": [
-        "divine"
-      ],
-      "equipment": [
-        "medium",
-        "polearm"
       ],
       "special": [
         "deity"
@@ -15671,30 +14071,6 @@
       ],
       "features": [
         "prosthetic"
-      ]
-    }
-  },
-  {
-    "label": "Knight Vigilant",
-    "key": "Knight-Vigilant",
-    "source": "PZO9312 - Pathfinder Lost Omens: Knights of Lastwall",
-    "art": {
-      "portrait": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/portraits/Knight-Vigilant.webp",
-      "thumb": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/thumbnails/Knight-Vigilant.webp",
-      "subject": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects/Knight-Vigilant.webp",
-      "scale": 2
-    },
-    "tags": {
-      "ancestry": [
-        "elf"
-      ],
-      "category": [
-        "humanoid"
-      ],
-      "equipment": [
-        "medium",
-        "sword",
-        "shield"
       ]
     }
   },

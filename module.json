@@ -2,7 +2,7 @@
   "id": "pf2e-token-pack-character-gallery",
   "title": "Pathfinder 2E: Token Pack (Character Gallery)",
   "description": "Дополнительный модуль для Pathfinder 2E: Token Pack, добавляет галерею",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -45,20 +45,41 @@
   ],
   "flags": {
   "galleryDatasheets": {
+      "bestiaries": {
+        "label": "Bestiaries",
+        "hint": "Иллюстрации из Bestiaries, в основном взятые из трех сборников бестиариев Pathfinder Second Edition.",
+        "sheet": "modules/pf2e-token-pack-character-gallery/datasheet/bestiaries.json"
+        },
+        "npc-core": {
+        "label": "NPC Core",
+        "hint": "Иллюстрация из NPC Core.",
+        "sheet": "modules/pf2e-token-pack-character-gallery/datasheet/npc-core.json"
+      },
+      "abomination-vaults": {
+        "label": "Adventure Path: Abomination Vaults",
+        "hint": "Иллюстрация из Pathfinder Adventure Path: Abomination Vaults.",
+        "sheet": "modules/pf2e-token-pack-character-gallery/datasheet/abomination-vaults.json"
+      },
+      "shades-of-blood": {
+        "label": "Adventure Path: Shades of Blood.",
+        "hint": "Иллюстрация из Pathfinder Adventure Path: Shades of Blood.",
+        "sheet": "modules/pf2e-token-pack-character-gallery/datasheet/shades-of-blood.json"
+      },
+      "bb-bestiary": {
+        "label": "Beginner Box",
+        "hint": "Иллюстрация из Pathfinder Beginner Box.",
+        "sheet": "modules/pf2e-token-pack-character-gallery/datasheet/beginner-box.json"
+      },
       "character-gallery": {
-        "label": "Pathfinder Tokens: Character Gallery Datasheet",
-        "hint": "Иллюстрации из модуля Pathfinder Tokens: Character Gallery, в которых особое внимание уделяется игровым предкам для PC-персонажей и NPC-персонажей.",
+        "label": "Character Gallery",
+        "hint": "Иллюстрации из Character Gallery, в которых особое внимание уделяется игровым предкам для PC-персонажей и NPC-персонажей.",
         "sheet": "modules/pf2e-token-pack-character-gallery/datasheet/character-gallery.json"
       },
-      "bestiaries": {
-            "label": "Pathfinder Tokens: Myth and Magic Datasheet",
-            "hint": "Иллюстрация из модуля Pathfinder Tokens: Myth and Magic.",
-            "sheet": "modules/pf2e-token-pack-character-gallery/datasheet/myth-and-magic.json"
-        }
-    },
-    "tokenRingSubjectMappings": {
-      "modules/pf2e-token-pack-character-gallery/assets/character-gallery/tokens/": "modules/pf2e-token-pack-character-gallery/assets/character-gallery/subjects",
-      "modules/pf2e-token-pack-character-gallery/assets/tokens/": "modules/pf2e-token-pack-character-gallery/assets/myth-and-magic/subjects"
+      "myth-and-magic": {
+        "label": "Myth and Magic",
+        "hint": "Иллюстрация из Myth and Magic.",
+        "sheet": "modules/pf2e-token-pack-character-gallery/datasheet/myth-and-magic.json"
+      }    
     }
   },
   "socket": true,

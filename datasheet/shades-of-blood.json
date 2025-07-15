@@ -1,0 +1,3736 @@
+[
+  {
+    "label": "Adamar",
+    "key": "adamar",
+    "source": "PZOPFS0519 - Pathfinder Society Scenario #5-19: Demonic Afterparty",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Adamar.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Adamar.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Adamar.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "light",
+        "knife",
+        "tome"
+      ],
+      "family": [
+        "outcast",
+        "mystic"
+      ]
+    }
+  },
+  {
+    "label": "Anya Sandstrider",
+    "key": "anya-sandstrider",
+    "source": "PZO90121 - Pathfinder Adventure Path: The Lost Outpost",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Anya-Sandstrider.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Anya-Sandstrider.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Anya-Sandstrider.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light"
+      ]
+    }
+  },
+  {
+    "label": "Belindra Abasendelium",
+    "key": "belindra-abasendelium",
+    "source": "PZO9057 - Pathfinder Adventure Path: Tempest Rising",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Belindra-Abasendelium.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Belindra-Abasendelium.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Belindra-Abasendelium.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "focus"
+      ],
+      "family": [
+        "civilian"
+      ]
+    }
+  },
+  {
+    "label": "Calbert Carrollby",
+    "key": "calbert-carrollby",
+    "source": "PZO90128 - Pathfinder Adventure Path: Songbird, Scion, Saboteur",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Calbert-Carrollby.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Calbert-Carrollby.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Calbert-Carrollby.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian",
+        "affluent"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Captain of the Blessed Blade",
+    "key": "captain-of-the-blessed-blade",
+    "source": "PZO2103 - Pathfinder Gamemastery Guide",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Captain-Of-The-Blessed-Blade.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Captain-Of-The-Blessed-Blade.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Captain-Of-The-Blessed-Blade.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "pick",
+        "light",
+        "clothing",
+        "tome"
+      ],
+      "family": [
+        "civilian",
+        "worker"
+      ]
+    }
+  },
+  {
+    "label": "Eamon Caranth",
+    "key": "eamon-caranth",
+    "source": "PZO90121 - Pathfinder Adventure Path: The Lost Outpost",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Eamon-Caranth.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Eamon-Caranth.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Eamon-Caranth.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "aiuvarin",
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Eugenie Umbrala",
+    "key": "eugenie-umbrala",
+    "source": "PZO2103 - Pathfinder Gamemastery Guide",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Eugenie-Umbrala.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Eugenie-Umbrala.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Eugenie-Umbrala.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian",
+        "worker"
+      ]
+    }
+  },
+  {
+    "label": "Gatubo",
+    "key": "gatubo",
+    "source": "PZO12005 - Pathfinder Howl of the Wild",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Gatubo.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Gatubo.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Gatubo.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "aquatic",
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Hal \"Lefty\" Croggins",
+    "key": "hal-\"lefty\"-croggins",
+    "source": "PZO9304 - Pathfinder Lost Omens: Absalom - City of Lost Omens",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Hal-Lefty-Croggins.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Hal-Lefty-Croggins.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Hal-Lefty-Croggins.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "orc"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian",
+        "worker",
+        "publican"
+      ]
+    }
+  },
+  {
+    "label": "Hali",
+    "key": "hali",
+    "source": "PZO2103 - Pathfinder Gamemastery Guide",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Hali.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Hali.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Hali.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "polearm",
+        "clothing"
+      ],
+      "family": [
+        "civilian",
+        "worker"
+      ]
+    }
+  },
+  {
+    "label": "Harcourt Carrollby",
+    "key": "harcourt-carrollby",
+    "source": "PZO90121 - Pathfinder Adventure Path: The Lost Outpost",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Harcourt-Carrollby.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Harcourt-Carrollby.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Harcourt-Carrollby.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "affluent"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Hardhead Mole",
+    "key": "hardhead-mole",
+    "source": "PZO12005 - Pathfinder Howl of the Wild",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Hardhead-Mole.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Hardhead-Mole.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Hardhead-Mole.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Ignis Tohki",
+    "key": "ignis-tohki",
+    "source": "PZO90151 - Pathfinder Adventure Path: The Show Must Go On",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Ignis-Tohki.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Ignis-Tohki.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Ignis-Tohki.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "dwarf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light"
+      ],
+      "family": [
+        "civilian"
+      ]
+    }
+  },
+  {
+    "label": "Jacobi Lumos",
+    "key": "jacobi-lumos",
+    "source": "PZO9533 - Pathfinder Module: Feast of Ravenmoor",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Jacobi-Lumos.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Jacobi-Lumos.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Jacobi-Lumos.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Josia Scaleheart",
+    "key": "josia-scaleheart",
+    "source": "PZO90118 - Pathfinder Adventure Path: Siege of Stone",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Josia-Scaleheart.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Josia-Scaleheart.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Josia-Scaleheart.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "dwarf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "affluent"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Kavia Hasker",
+    "key": "kavia-hasker",
+    "source": "PZO9263 - Pathfinder Campaign Setting: Towns of the Inner Sea",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Kavia-Hasker.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Kavia-Hasker.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Kavia-Hasker.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "halfling"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Luetin Calewick",
+    "key": "luetin-calewick",
+    "source": "PZO90121 - Pathfinder Adventure Path: The Lost Outpost",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Luetin-Calewick.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Luetin-Calewick.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Luetin-Calewick.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Mister Oats",
+    "key": "mister-oats",
+    "source": "PZO9316 - Pathfinder Lost Omens: Highhelm",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Mister-Oats.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Mister-Oats.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Mister-Oats.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Moxlin Grichum",
+    "key": "moxlin-grichum",
+    "source": "PZO12007 - Pathfinder NPC Core",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Moxlin-Grichum.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Moxlin-Grichum.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Moxlin-Grichum.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "tome"
+      ],
+      "family": [
+        "sage",
+        "civilian"
+      ]
+    }
+  },
+  {
+    "label": "Netherworld Sprigjack",
+    "key": "netherworld-sprigjack",
+    "source": "PZO15213-FV - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Netherworld-Sprigjack.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Netherworld-Sprigjack.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Netherworld-Sprigjack.webp",
+      "scale": 3
+    },
+    "tags": {
+      "category": [
+        "fiendish"
+      ]
+    }
+  },
+  {
+    "label": "Netherworld Vampire Bat Swarm",
+    "key": "netherworld-vampire-bat-swarm",
+    "source": "PZO15213-FV - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Netherworld-Vampire-Bat-Swarm.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Netherworld-Vampire-Bat-Swarm.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Netherworld-Vampire-Bat-Swarm.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Nijenann Abasendelium",
+    "key": "nijenann-abasendelium",
+    "source": "PZO9280 - Pathfinder Campaign Setting: Inner Sea Races",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Nijenann-Abasendelium.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Nijenann-Abasendelium.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Nijenann-Abasendelium.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "scroll",
+        "bludgeon",
+        "light"
+      ],
+      "features": [
+        "magic"
+      ],
+      "family": [
+        "sage"
+      ]
+    }
+  },
+  {
+    "label": "Nilmari Dis Vinassi",
+    "key": "nilmari-dis-vinassi",
+    "source": "PZO90127 - Pathfinder Adventure Path: Crownfall",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Nilmari-Dis-Vinassi.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Nilmari-Dis-Vinassi.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Nilmari-Dis-Vinassi.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "affluent"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Nitvar",
+    "key": "nitvar",
+    "source": "PZO6817 - Pathfinder Adventure Card Game: Goblins Fight! Class Deck",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Nitvar.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Nitvar.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Nitvar.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "goblin"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "family": [
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Noltari Muros",
+    "key": "noltari-muros",
+    "source": "PZO9047 - Pathfinder Adventure Path: Ashes at Dawn",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Noltari-Muros.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Noltari-Muros.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Noltari-Muros.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "clothing"
+      ]
+    }
+  },
+  {
+    "label": "Alzanti Skeleton",
+    "key": "alzanti-skeleton",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Alzanti-Skeleton.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Alzanti-Skeleton.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Alzanti-Skeleton.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "heavy",
+        "shield",
+        "sword"
+      ]
+    }
+  },
+  {
+    "label": "Alzanti Statue",
+    "key": "alzanti-statue",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Alzanti-Statue.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Alzanti-Statue.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Alzanti-Statue.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "constructed"
+      ]
+    }
+  },
+  {
+    "label": "Alzira Mustanir",
+    "key": "alzira-mustanir",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Alzira-Mustanir.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Alzira-Mustanir.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Alzira-Mustanir.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "knife"
+      ],
+      "features": [
+        "magic"
+      ],
+      "family": [
+        "outcast",
+        "mystic"
+      ]
+    }
+  },
+  {
+    "label": "Batkin Guard",
+    "key": "batkin-guard",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Batkin-Guard.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Batkin-Guard.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Batkin-Guard.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "heavy",
+        "bludgeon"
+      ]
+    }
+  },
+  {
+    "label": "Cultist of Camazotz",
+    "key": "cultist-of-camazotz",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Camazotz-Cultist.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Camazotz-Cultist.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Camazotz-Cultist.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Camazotz Swarm",
+    "key": "camazotz-swarm",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Camazotz-Swarm.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Camazotz-Swarm.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Camazotz-Swarm.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Worshipper of Camazotz",
+    "key": "worshipper-of-camazotz",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Camazotz-Warshipper.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Camazotz-Warshipper.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Camazotz-Warshipper.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "polearm",
+        "clothing"
+      ],
+      "family": [
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Inizkar",
+    "key": "inizkar",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Inizkar-Npc-Entry.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Inizkar-Npc-Entry.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Inizkar-Npc-Entry.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "iruxi"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "focus"
+      ],
+      "family": [
+        "sage",
+        "civilian"
+      ]
+    }
+  },
+  {
+    "label": "Keeper Of Ancorato",
+    "key": "keeper-of-ancorato",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Keeper-Of-Ancorato.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Keeper-Of-Ancorato.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Keeper-Of-Ancorato.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Romi Bracken",
+    "key": "romi-bracken",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Romi-Npc-Entry.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Romi-Npc-Entry.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Romi-Npc-Entry.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Andristi",
+    "key": "andristi",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Sc-Andristi.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Sc-Andristi.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Sc-Andristi.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "gnome"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "bust",
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Azlanti Engine",
+    "key": "azlanti-engine",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Sc-Azlantiengine.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Sc-Azlantiengine.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Sc-Azlantiengine.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "constructed"
+      ]
+    }
+  },
+  {
+    "label": "Havilahbacchus",
+    "key": "havilahbacchus",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Sc-Havilahbacchus.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Sc-Havilahbacchus.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Sc-Havilahbacchus.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "halfling"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "bust",
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Milza",
+    "key": "milza",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Sc-Milza.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Sc-Milza.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Sc-Milza.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "humanoid"
+      ],
+      "family": [
+        "outcast"
+      ],
+      "special": [
+        "bust",
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Nizca",
+    "key": "nizca",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Sc-Nizca.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Sc-Nizca.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Sc-Nizca.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "dhampir"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light",
+        "clothing"
+      ],
+      "special": [
+        "bust",
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Nizca Pin Panel",
+    "key": "nizca-pin-panel",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Sc-Nizcapinpanel.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Sc-Nizcapinpanel.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Sc-Nizcapinpanel.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "constructed"
+      ]
+    }
+  },
+  {
+    "label": "Romi",
+    "key": "romi",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Sc-Romi.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Sc-Romi.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Sc-Romi.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "special": [
+        "bust",
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Shadow Scamp",
+    "key": "shadow-scamp",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Shadow-Scamp.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Shadow-Scamp.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Shadow-Scamp.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "elemental",
+        "shadow"
+      ]
+    }
+  },
+  {
+    "label": "Tlaytin Cordali",
+    "key": "tlaytin-cordali",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Tlaytin-Cordali.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Tlaytin-Cordali.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Tlaytin-Cordali.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "indistinct"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "light"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Torminshild",
+    "key": "torminshild",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Torminshild.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Torminshild.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Torminshild.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Torminwird",
+    "key": "torminwird",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Torminwird.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Torminwird.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Torminwird.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Vampire Hound",
+    "key": "vampire-hound",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Vampire-Hound.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Vampire-Hound.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Vampire-Hound.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Vampire Servant",
+    "key": "vampire-servant",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Vampire-Servant.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Vampire-Servant.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Vampire-Servant.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "dhampir"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "clothing",
+        "knife"
+      ],
+      "family": [
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Werebat Warrior",
+    "key": "werebat-warrior",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Werebat-Warrior.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Werebat-Warrior.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Werebat-Warrior.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light",
+        "sword"
+      ]
+    }
+  },
+  {
+    "label": "Sanguimancer",
+    "key": "sanguimancer",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Sanguimancer.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Sanguimancer.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Sanguimancer.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "goblin"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light",
+        "knife"
+      ],
+      "features": [
+        "magic"
+      ]
+    }
+  },
+  {
+    "label": "Raegin Intraede",
+    "key": "raegin-intraede",
+    "source": "PZO90180 - Pathfinder Adventure Path: The Smoking Gun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Raegin-Intraede.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Raegin-Intraede.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Raegin-Intraede.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Rakkal",
+    "key": "rakkal",
+    "source": "PZO1140 - Pathfinder Roleplaying Game: Ultimate Wilderness",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Rakkal.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Rakkal.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Rakkal.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "dhampir"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "unarmored",
+        "polearm"
+      ],
+      "family": [
+        "seafarer"
+      ]
+    }
+  },
+  {
+    "label": "Ramona Avandth",
+    "key": "ramona-avandth",
+    "source": "PZO15213 - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Ramona-Avandth.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Ramona-Avandth.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Ramona-Avandth.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "affluent"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Sedacthy Scout",
+    "key": "sedacthy-scout",
+    "source": "PZO12003 - Pathfinder Monster Core",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Sedacthy-Scout.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Sedacthy-Scout.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Sedacthy-Scout.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "polearm"
+      ]
+    }
+  },
+  {
+    "label": "Skorga",
+    "key": "skorga",
+    "source": "PZO1116 - Pathfinder Roleplaying Game: Bestiary 2",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Skorga.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Skorga.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Skorga.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "aquatic",
+        "humanoid"
+      ],
+      "equipment": [
+        "polearm"
+      ]
+    }
+  },
+  {
+    "label": "Python",
+    "key": "python",
+    "source": "PZO2102 - Pathfinder Bestiary",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Snake-Python.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Snake-Python.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Snake-Python.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Stone Goat",
+    "key": "stone-goat",
+    "source": "PZO12005 - Pathfinder Howl of the Wild",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Stone-Goat.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Stone-Goat.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Stone-Goat.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Summer",
+    "key": "summer",
+    "source": "PZO9280 - Pathfinder Campaign Setting: Inner Sea Races",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Summer.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Summer.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Summer.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "knife",
+        "sword",
+        "light"
+      ],
+      "family": [
+        "seafarer"
+      ]
+    }
+  },
+  {
+    "label": "Tormonshild Swarm",
+    "key": "tormonshild-swarm",
+    "source": "PZO15213-FV - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Tormonshild-Swarm.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Tormonshild-Swarm.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Tormonshild-Swarm.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Unill Kilmarr",
+    "key": "unill-kilmarr",
+    "source": "PZO12007 - Pathfinder NPC Core",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Unill-Kilmarr.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Unill-Kilmarr.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Unill-Kilmarr.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "bludgeon",
+        "light"
+      ],
+      "family": [
+        "artisan"
+      ]
+    }
+  },
+  {
+    "label": "Urist",
+    "key": "urist",
+    "source": "PZO90134 - Pathfinder Adventure Path: It Came from Hollow Mountain",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Urist.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Urist.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Urist.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light",
+        "sword"
+      ],
+      "family": [
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Vampire Servitor",
+    "key": "vampire-servitor",
+    "source": "PZO2102 - Pathfinder Bestiary",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Vampire-Servitor.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Vampire-Servitor.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Vampire-Servitor.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "light"
+      ]
+    }
+  },
+  {
+    "label": "Vazterri",
+    "key": "vazterri",
+    "source": "PZO15213-FV - Pathfinder Adventure Path: Thirst for Blood",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Vazterri-Edit.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Vazterri-Edit.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Vazterri-Edit.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "constructed"
+      ]
+    }
+  },
+  {
+    "label": "Verner Tracewell",
+    "key": "verner-tracewell",
+    "source": "PZO12007 - Pathfinder NPC Core",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Verner-Tracewell.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Verner-Tracewell.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Verner-Tracewell.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "tome",
+        "scroll"
+      ],
+      "family": [
+        "civilian",
+        "sage"
+      ]
+    }
+  },
+  {
+    "label": "Web Grub",
+    "key": "web-grub",
+    "source": "PZO1009 - Pathfinder Bestiary 3 Pawn Collection",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Web-Grub.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Web-Grub.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Web-Grub.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Morlock Thrall",
+    "key": "morlock-thrall",
+    "source": "PZO1112 - Pathfinder Bestiary",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Morlock-Thrall.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Morlock-Thrall.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Morlock-Thrall.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "morlock"
+      ],
+      "category": [
+        "humanoid"
+      ]
+    }
+  },
+  {
+    "label": "Pusk",
+    "key": "pusk",
+    "source": "PZO12003 - Pathfinder Monster Core",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Demon-Pusk.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Demon-Pusk.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Demon-Pusk.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "fiendish"
+      ]
+    }
+  },
+  {
+    "label": "String Slime",
+    "key": "string-slime",
+    "source": "PZO12003 - Pathfinder Monster Core",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Ooze-String-Slime.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Ooze-String-Slime.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Ooze-String-Slime.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Fulthrethu",
+    "key": "fulthrethu",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Alghollthu-Fulthrethu.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Alghollthu-Fulthrethu.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Alghollthu-Fulthrethu.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Amphibious Chupacabra",
+    "key": "amphibious-chupacabra",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Amphibious-Chupacabra.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Amphibious-Chupacabra.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Amphibious-Chupacabra.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "bestial",
+        "aquatic"
+      ]
+    }
+  },
+  {
+    "label": "Auzmere",
+    "key": "auzmere",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Auzmere.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Auzmere.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Auzmere.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "dero"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "medium",
+        "polearm",
+        "crossbow"
+      ]
+    }
+  },
+  {
+    "label": "Kartho",
+    "key": "kartho",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Clerk-Kartho.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Clerk-Kartho.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Clerk-Kartho.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Lady Nalushae",
+    "key": "lady-nalushae",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Cover-Character-Lady-Nalushae.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Cover-Character-Lady-Nalushae.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Cover-Character-Lady-Nalushae.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "vampire"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "bludgeon",
+        "clothing",
+        "focus"
+      ],
+      "family": [
+        "affluent"
+      ]
+    }
+  },
+  {
+    "label": "Creeping Clot",
+    "key": "creeping-clot",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Creeping-Clot.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Creeping-Clot.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Creeping-Clot.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Danva",
+    "key": "danva",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Danva.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Danva.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Danva.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "bludgeon"
+      ],
+      "family": [
+        "civilian"
+      ]
+    }
+  },
+  {
+    "label": "Kalakaigh",
+    "key": "kalakaigh",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Demon-Kalakaigh.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Demon-Kalakaigh.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Demon-Kalakaigh.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "fiendish"
+      ],
+      "equipment": [
+        "knife"
+      ]
+    }
+  },
+  {
+    "label": "Dero Punk",
+    "key": "dero-punk",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Dero-Punk.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Dero-Punk.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Dero-Punk.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "dero"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "light",
+        "knife"
+      ]
+    }
+  },
+  {
+    "label": "Fogfisher",
+    "key": "fogfisher",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Fogfisher.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Fogfisher.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Fogfisher.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial",
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Glistercap",
+    "key": "glistercap",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Glistercap.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Glistercap.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Glistercap.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "myceloid"
+      ],
+      "category": [
+        "plant"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Glormungost",
+    "key": "glormungost",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Glormungost.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Glormungost.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Glormungost.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "undead",
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Idebilor",
+    "key": "idebilor",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Idebilor.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Idebilor.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Idebilor.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "vampire"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "tome",
+        "scroll",
+        "clothing"
+      ],
+      "family": [
+        "devotee"
+      ]
+    }
+  },
+  {
+    "label": "Ismarendia",
+    "key": "ismarendia",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Ismarendia.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Ismarendia.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Ismarendia.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "fey"
+      ],
+      "features": [
+        "winged"
+      ]
+    }
+  },
+  {
+    "label": "Losko",
+    "key": "losko",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Losko.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Losko.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Losko.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "skeleton"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "bludgeon",
+        "heavy"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Miranette",
+    "key": "miranette",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Miranette.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Miranette.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Miranette.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "succubus"
+      ],
+      "category": [
+        "fiendish"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Shankfingers",
+    "key": "shankfingers",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Shankfingers.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Shankfingers.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Shankfingers.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "redcap"
+      ],
+      "category": [
+        "fey"
+      ],
+      "equipment": [
+        "polearm",
+        "light"
+      ]
+    }
+  },
+  {
+    "label": "Herexen of Sicva",
+    "key": "herexen-of-sicva",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Sicva-Herexen.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Sicva-Herexen.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Sicva-Herexen.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "clothing",
+        "knife"
+      ],
+      "family": [
+        "devotee"
+      ]
+    }
+  },
+  {
+    "label": "Vampire Nettle",
+    "key": "vampire-nettle",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Vampire-Nettle.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Vampire-Nettle.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Vampire-Nettle.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "plant"
+      ]
+    }
+  },
+  {
+    "label": "Vikandian",
+    "key": "vikandian",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Vikandian.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Vikandian.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Vikandian.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "vampire"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "clothing",
+        "sword"
+      ]
+    }
+  },
+  {
+    "label": "Vinn Karskell",
+    "key": "vinn-karskell",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Vinn-Karskell.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Vinn-Karskell.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Vinn-Karskell.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "devotee"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Viper Bat",
+    "key": "viper-bat",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Viper-Bat.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Viper-Bat.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Viper-Bat.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ],
+      "features": [
+        "winged"
+      ]
+    }
+  },
+  {
+    "label": "Vool",
+    "key": "vool",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Vool.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Vool.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Vool.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "morlock"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Yobnobby",
+    "key": "yobnobby",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Yobnobby.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Yobnobby.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Yobnobby.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "jinkin"
+      ],
+      "category": [
+        "fey",
+        "gremlin"
+      ],
+      "equipment": [
+        "light",
+        "brawling"
+      ],
+      "features": [
+        "winged"
+      ]
+    }
+  },
+  {
+    "label": "Worshipper Of Zura",
+    "key": "worshipper-of-zura",
+    "source": "PZO15214 - Pathfinder Adventure Path: The Broken Palace",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Zura-Worshipper.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Zura-Worshipper.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Zura-Worshipper.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "devotee"
+      ]
+    }
+  },
+  {
+    "label": "Ore Louse",
+    "key": "ore-louse",
+    "source": "PZO2113 - Pathfinder Rage of Elements",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Ore-Louse.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Ore-Louse.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Ore-Louse.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Living Decor",
+    "key": "living-decor",
+    "source": "PZO2229 - Pathfinder Deck of Endless NPCs",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Living-Decor-Female.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Living-Decor-Female.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Living-Decor-Female.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Imprisoned Sailor",
+    "key": "imprisoned-sailor",
+    "source": "PZO6010 - Pathfinder Adventure Card Game: Skull & Shackles Base Set",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Imprisoned-Sailor-Male-01.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Imprisoned-Sailor-Male-01.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Imprisoned-Sailor-Male-01.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Pirate Prisoner",
+    "key": "pirate-prisoner",
+    "source": "PZO6010  - Pathfinder Adventure Card Game: Skull & Shackles Base Set",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Pirate-Prisoner-Female.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Pirate-Prisoner-Female.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Pirate-Prisoner-Female.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Pale Villager",
+    "key": "pale-villager",
+    "source": "PZO6010  - Pathfinder Adventure Card Game: Skull & Shackles Base Set",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Pale-Villager-Male-01.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Pale-Villager-Male-01.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Pale-Villager-Male-01.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "polearm"
+      ]
+    }
+  },
+  {
+    "label": "Undead Decor",
+    "key": "undead-decor",
+    "source": "PZO90181 - Pathfinder Adventure Path: Zombie Feast",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Undead-Decor.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Undead-Decor.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Undead-Decor.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "zombie"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Oversized Water Spider",
+    "key": "oversized-water-spider",
+    "source": "PZO9049 - Pathfinder Adventure Path: The Brinewall Legacy",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Oversized-Water-Spider.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Oversized-Water-Spider.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Oversized-Water-Spider.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aquatic"
+      ]
+    }
+  },
+  {
+    "label": "Disguised Kalakaigh",
+    "key": "disguised-kalakaigh",
+    "source": "PZO9301 - Pathfinder Lost Omens World Guide",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Disguised-Kalakaigh.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Disguised-Kalakaigh.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Disguised-Kalakaigh.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "light",
+        "knife"
+      ]
+    }
+  },
+  {
+    "label": "Aguilar",
+    "key": "aguilar",
+    "source": "PZO1124 - Pathfinder NPC Codex",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Aguilar.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Aguilar.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Aguilar.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "indistinct"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light",
+        "medium",
+        "crossbow",
+        "sword"
+      ],
+      "family": [
+        "criminal",
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Animated Hoard",
+    "key": "animated-hoard",
+    "source": "PZO9278 - Pathfinder Campaign Setting: Tombs of Golarion",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Animated-Object-Hoard.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Animated-Object-Hoard.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Animated-Object-Hoard.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "constructed"
+      ],
+      "special": [
+        "swarm"
+      ]
+    }
+  },
+  {
+    "label": "Asandi",
+    "key": "asandi",
+    "source": "PZO9280 - Pathfinder Campaign Setting: Inner Sea Races",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Asandi.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Asandi.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Asandi.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "aiuvarin"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Aufidaeus",
+    "key": "aufidaeus",
+    "source": "FVTT15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Aufidaeus.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Aufidaeus.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Aufidaeus.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Brinette",
+    "key": "brinette",
+    "source": "PZO9263 - Pathfinder Campaign Setting: Towns of the Inner Sea",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Brinette.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Brinette.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Brinette.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Bulbous Blood Ooze",
+    "key": "bulbous-blood-ooze",
+    "source": "PZO9555 - Pathfinder Adventure: The Fall of Plaguestone",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Bulbous-Blood-Ooze.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Bulbous-Blood-Ooze.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Bulbous-Blood-Ooze.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant",
+        "ooze"
+      ]
+    }
+  },
+  {
+    "label": "Camilla",
+    "key": "camilla",
+    "source": "PZO9549 - Pathfinder Module: The House on Hook Street",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Camilla.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Camilla.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Camilla.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Captive",
+    "key": "captive",
+    "source": "PZO9091 - Pathfinder Adventure Path: Battle of Bloodmarch Hill",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Captive-1.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Captive-1.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Captive-1.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Daphne",
+    "key": "daphne",
+    "source": "PZO2103 - Pathfinder Gamemastery Guide",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Daphne.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Daphne.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Daphne.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian"
+      ]
+    }
+  },
+  {
+    "label": "Eskis",
+    "key": "eskis",
+    "source": "FVTT15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Eskis.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Eskis.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Eskis.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "ghost"
+      ],
+      "category": [
+        "undead",
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Esley",
+    "key": "esley",
+    "source": "PZO9263 - Pathfinder Campaign Setting: Towns of the Inner Sea",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Esley.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Esley.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Esley.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian"
+      ]
+    }
+  },
+  {
+    "label": "Hurkum",
+    "key": "hurkum",
+    "source": "FVTT90188 - Pathfinder Adventure Path: They Watched the Stars",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Hurkum.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Hurkum.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Hurkum.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "ogre"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "pick"
+      ]
+    }
+  },
+  {
+    "label": "Ilnaphrae",
+    "key": "ilnaphrae",
+    "source": "PZO1036 - Pathfinder Pawns: Bestiary Pawn Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Ilnaphrae.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Ilnaphrae.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Ilnaphrae.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "vampire"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "sword",
+        "light",
+        "clothing"
+      ]
+    }
+  },
+  {
+    "label": "Iverness",
+    "key": "iverness",
+    "source": "PZO1128 - Pathfinder Strategy Guide",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Iverness.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Iverness.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Iverness.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light",
+        "medium",
+        "sword"
+      ],
+      "family": [
+        "criminal"
+      ]
+    }
+  },
+  {
+    "label": "Kaba",
+    "key": "kaba",
+    "source": "PZO9047 - Pathfinder Adventure Path: Ashes at Dawn",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Kaba.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Kaba.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Kaba.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "vampire"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "light",
+        "dagger"
+      ]
+    }
+  },
+  {
+    "label": "Lauso",
+    "key": "lauso",
+    "source": "PZO2110 - Pathfinder Book of the Dead",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Lauso.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Lauso.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Lauso.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "vampire"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "light",
+        "sword"
+      ]
+    }
+  },
+  {
+    "label": "Living Graffiti",
+    "key": "living-graffiti",
+    "source": "PZO2107 - Pathfinder Bestiary 3",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Living-Graffiti.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Living-Graffiti.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Living-Graffiti.webp",
+      "scale": 1
+    },
+    "tags": {}
+  },
+  {
+    "label": "Meylu",
+    "key": "meylu",
+    "source": "FVTT15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Meylu.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Meylu.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Meylu.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Mina",
+    "key": "mina",
+    "source": "PZO1114 - Pathfinder NPC Codex",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Mina.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Mina.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Mina.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "worker",
+        "civilian"
+      ]
+    }
+  },
+  {
+    "label": "Mirida",
+    "key": "mirida",
+    "source": "PZO9544 - Pathfinder Module: Tears at Bitter Manor",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Mirida.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Mirida.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Mirida.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "ghost"
+      ],
+      "category": [
+        "undead"
+      ]
+    }
+  },
+  {
+    "label": "Stone Bulwark Of Nin",
+    "key": "stone-bulwark-of-nin",
+    "source": "FVTT15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Nin-Stone-Bulwark.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Nin-Stone-Bulwark.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Nin-Stone-Bulwark.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "constructed"
+      ]
+    }
+  },
+  {
+    "label": "Ogenni",
+    "key": "ogenni",
+    "source": "PZO1016 - Pathfinder Pawns: Giantslayer Pawn Collection",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Ogenni.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Ogenni.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Ogenni.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "ogre"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light",
+        "bludgeon"
+      ]
+    }
+  },
+  {
+    "label": "Onak",
+    "key": "onak",
+    "source": "PZO2102 - Pathfinder Bestiary",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Onak.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Onak.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Onak.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "dero"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "flail",
+        "light"
+      ],
+      "family": [
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Aeon Stone Swarm",
+    "key": "aeon-stone-swarm",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Aeon-Stone-Swarm.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Aeon-Stone-Swarm.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Aeon-Stone-Swarm.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "constructed"
+      ],
+      "special": [
+        "swarm"
+      ]
+    }
+  },
+  {
+    "label": "Anoreth Zorilen",
+    "key": "anoreth-zorilen",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Anoreth-Zorilen.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Anoreth-Zorilen.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Anoreth-Zorilen.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light"
+      ]
+    }
+  },
+  {
+    "label": "Chamadi",
+    "key": "chamadi",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Chamadi.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Chamadi.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Chamadi.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ]
+    }
+  },
+  {
+    "label": "Clockwork Corpse",
+    "key": "clockwork-corpse",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Clockwork-Corpse.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Clockwork-Corpse.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Clockwork-Corpse.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "zombie"
+      ],
+      "category": [
+        "undead"
+      ],
+      "features": [
+        "tech"
+      ]
+    }
+  },
+  {
+    "label": "Clockwork Sentry",
+    "key": "clockwork-sentry",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Clockwork-Sentry.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Clockwork-Sentry.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Clockwork-Sentry.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "automaton"
+      ],
+      "category": [
+        "constructed"
+      ],
+      "equipment": [
+        "bludgeon"
+      ]
+    }
+  },
+  {
+    "label": "Nizca Iricol",
+    "key": "nizca-iricol",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Cover-Charater-Nizca-Iricol.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Cover-Charater-Nizca-Iricol.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Cover-Charater-Nizca-Iricol.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "vampire"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "light",
+        "bludgeon"
+      ]
+    }
+  },
+  {
+    "label": "Dero Sentry",
+    "key": "dero-sentry",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Dero-Sentry.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Dero-Sentry.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Dero-Sentry.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "dero"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light",
+        "clothing",
+        "flail"
+      ],
+      "family": [
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Firitula",
+    "key": "firitula",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Firitula.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Firitula.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Firitula.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "medusa"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "bow",
+        "light"
+      ]
+    }
+  },
+  {
+    "label": "Freileth",
+    "key": "freileth",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Freileth.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Freileth.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Freileth.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Geff",
+    "key": "geff",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Geff.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Geff.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Geff.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "dero"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "outcast"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Jubilant",
+    "key": "jubilant",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Jubilant.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Jubilant.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Jubilant.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "vampire"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "clothing"
+      ]
+    }
+  },
+  {
+    "label": "Lograsi",
+    "key": "lograsi",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Lograsi.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Lograsi.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Lograsi.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "heavy"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Nin Worshipper",
+    "key": "nin-worshipper",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Nin-Worshipper.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Nin-Worshipper.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Nin-Worshipper.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "scroll",
+        "bludgeon",
+        "clothing"
+      ]
+    }
+  },
+  {
+    "label": "Deg",
+    "key": "deg",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Npc-Deg.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Npc-Deg.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Npc-Deg.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "dero"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "features": [
+        "tech"
+      ],
+      "family": [
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Okoa",
+    "key": "okoa",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Okoa.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Okoa.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Okoa.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "rukh"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "bow",
+        "medium"
+      ],
+      "features": [
+        "winged"
+      ]
+    }
+  },
+  {
+    "label": "Poppet",
+    "key": "poppet",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Poppet.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Poppet.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Poppet.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "poppet"
+      ],
+      "category": [
+        "constructed"
+      ],
+      "equipment": [
+        "light",
+        "shield",
+        "polearm"
+      ]
+    }
+  },
+  {
+    "label": "Speckle",
+    "key": "speckle",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Speckle.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Speckle.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Speckle.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "constructed"
+      ],
+      "features": [
+        "winged"
+      ]
+    }
+  },
+  {
+    "label": "Tokainen",
+    "key": "tokainen",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Tokainen.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Tokainen.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Tokainen.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "medium",
+        "flail"
+      ]
+    }
+  },
+  {
+    "label": "Tokainen's Chosen",
+    "key": "tokainen's-chosen",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Tokainens-Chosen.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Tokainens-Chosen.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Tokainens-Chosen.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "medium",
+        "polearm"
+      ]
+    }
+  },
+  {
+    "label": "Velstrac Conductor",
+    "key": "velstrac-conductor",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Velstrac-Conductor.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Velstrac-Conductor.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Velstrac-Conductor.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "velstrac"
+      ],
+      "category": [
+        "fiendish"
+      ],
+      "equipment": [
+        "focus",
+        "clothing"
+      ]
+    }
+  },
+  {
+    "label": "Zatrine",
+    "key": "zatrine",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Zatrine.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Zatrine.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Zatrine.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "lamia"
+      ],
+      "category": [
+        "bestial"
+      ],
+      "features": [
+        "magic"
+      ]
+    }
+  },
+  {
+    "label": "Zovi",
+    "key": "zovi",
+    "source": "PZO15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Zovi.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Zovi.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Zovi.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "dero"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "medium",
+        "crossbow"
+      ],
+      "features": [
+        "tech"
+      ],
+      "family": [
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Strigoi Progenitor",
+    "key": "strigoi-progenitor",
+    "source": "PZO9561 - Pathfinder Adventure: Shadows at Sundown",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Strigoi-Progenitor.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Strigoi-Progenitor.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Strigoi-Progenitor.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "vampire"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "light"
+      ],
+      "features": [
+        "magic"
+      ]
+    }
+  },
+  {
+    "label": "Strigoi Servant",
+    "key": "strigoi-servant",
+    "source": "PZO9561 - Pathfinder Adventure: Shadows at Sundown",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Strigoi-Servant.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Strigoi-Servant.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Strigoi-Servant.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "vampire"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "medium",
+        "sword",
+        "bow"
+      ]
+    }
+  },
+  {
+    "label": "Ren",
+    "key": "ren",
+    "source": "PZO9045 - Pathfinder Adventure Path: Broken Moon",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Ren.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Ren.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Ren.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "light"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Rukh",
+    "key": "rukh",
+    "source": "FVTT15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Rukh.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Rukh.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Rukh.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "rukh"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "light",
+        "bow"
+      ],
+      "features": [
+        "winged"
+      ]
+    }
+  },
+  {
+    "label": "Serra",
+    "key": "serra",
+    "source": "FVTT15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Serra.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Serra.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Serra.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "halfling"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Shadow-Tainted Pachycephalosaurus",
+    "key": "shadow-tainted-pachycephalosaurus",
+    "source": "FVTT15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Shadow-Tainted-Pachycephalosaurus.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Shadow-Tainted-Pachycephalosaurus.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Shadow-Tainted-Pachycephalosaurus.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial",
+        "shadow"
+      ]
+    }
+  },
+  {
+    "label": "Shonna",
+    "key": "shonna",
+    "source": "PZO9263 - Pathfinder Campaign Setting: Towns of the Inner Sea",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Shonna.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Shonna.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Shonna.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Sporeback Frog",
+    "key": "sporeback-frog",
+    "source": "PZO1001 - Pathfinder Pawns: Bestiary Box",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Sporeback-Frog.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Sporeback-Frog.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Sporeback-Frog.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Tiris",
+    "key": "tiris",
+    "source": "PZO9540 - Pathfinder Module: Fangwood Keep",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Tiris.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Tiris.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Tiris.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "heavy"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Ularette",
+    "key": "ularette",
+    "source": "PZO2103 - Pathfinder Gamemastery Guide",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Ularette.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Ularette.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Ularette.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "indistinct"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "bow",
+        "light"
+      ],
+      "family": [
+        "criminal"
+      ]
+    }
+  },
+  {
+    "label": "Vye",
+    "key": "vye",
+    "source": "PZO12003 - Pathfinder Monster Core",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Vye.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Vye.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Vye.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "dero"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "bludgeon",
+        "light",
+        "medium"
+      ],
+      "features": [
+        "magic"
+      ],
+      "family": [
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Xarbaene",
+    "key": "xarbaene",
+    "source": "PZO9216 - Pathfinder Chronicles: Classic Horrors Revisited",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Xarbaene.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Xarbaene.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Xarbaene.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "vampire"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "clothing"
+      ]
+    }
+  },
+  {
+    "label": "Xibin",
+    "key": "xibin",
+    "source": "PZO9047 - Pathfinder Adventure Path: Ashes at Dawn",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Xibin.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Xibin.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Xibin.webp",
+      "scale": 2
+    },
+    "tags": {
+      "ancestry": [
+        "vampire"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "bludgeon",
+        "medium",
+        "shield"
+      ],
+      "family": [
+        "warrior"
+      ]
+    }
+  },
+  {
+    "label": "Zatrine (Humanoid Form)",
+    "key": "zatrine-(humanoid-form)",
+    "source": "FVTT15215 - Pathfinder Adventure Path: To Blot Out the Sun",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Zatrine-Humanoid-Form.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Zatrine-Humanoid-Form.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Zatrine-Humanoid-Form.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Zer",
+    "key": "zer",
+    "source": "PZO9283 - Pathfinder Campaign Setting: Inner Sea Monster Codex",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Zer.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Zer.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Zer.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "dero"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light",
+        "bludgeon"
+      ],
+      "features": [
+        "magic"
+      ],
+      "family": [
+        "outcast",
+        "mystic"
+      ]
+    }
+  },
+  {
+    "label": "Young Fortune Dragon",
+    "key": "young-fortune-dragon",
+    "source": "FVTT12003 - Pathfinder Tokens: Monster Core",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Young-Fortune-Dragon.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Young-Fortune-Dragon.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Young-Fortune-Dragon.webp",
+      "scale": 2
+    },
+    "tags": {
+      "category": [
+        "draconic"
+      ],
+      "features": [
+        "winged"
+      ]
+    }
+  },
+  {
+    "label": "Pipefox",
+    "key": "pipefox",
+    "source": "PZO12003 - Pathfinder Monster Core",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/portraits/Pipefox.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/thumbnails/Pipefox.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/shades-of-blood/subjects/Pipefox.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial"
+      ]
+    }
+  }
+]

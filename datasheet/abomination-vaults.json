@@ -1,0 +1,2566 @@
+[
+  {
+    "label": "Aller Rosk",
+    "key": "aller-rosk",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Aller-Rosk.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Aller-Rosk.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Aller-Rosk.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "ghoul"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "knife"
+      ],
+      "family": [
+        "civilian",
+        "artisan",
+        "downtrodden"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Augrael",
+    "key": "augrael",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Augrael.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Augrael.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Augrael.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "ghoul",
+        "morlock"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "unarmored"
+      ],
+      "family": [
+        "civilian",
+        "downtrodden"
+      ],
+      "special": [
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Barbazu Drill Sergeant",
+    "key": "barbazu-drill-sergeant",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Barbazu-Drill-Sergeant.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Barbazu-Drill-Sergeant.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Barbazu-Drill-Sergeant.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "fiendish",
+        "devil"
+      ],
+      "equipment": [
+        "sword",
+        "unarmored",
+        "medium"
+      ],
+      "family": [
+        "warrior"
+      ]
+    }
+  },
+  {
+    "label": "Clay Effigy of Belcorra",
+    "key": "clay-effigy-of-belcorra",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Clay-Golem-Av.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Clay-Golem-Av.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Clay-Golem-Av.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "constructed"
+      ]
+    }
+  },
+  {
+    "label": "Wood Warden of Belcorra",
+    "key": "wood-warden-of-belcorra",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Wood-Golem-Av.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Wood-Golem-Av.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Wood-Golem-Av.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "constructed"
+      ]
+    }
+  },
+  {
+    "label": "Azvalvigander",
+    "key": "azvalvigander",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Azvalvigander.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Azvalvigander.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Azvalvigander.webp",
+      "scale": 1.5
+    },
+    "tags": {
+      "category": [
+        "fiendish",
+        "devil"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Barcumbuk",
+    "key": "barcumbuk",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Barcumbuk.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Barcumbuk.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Barcumbuk.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "fiendish",
+        "devil"
+      ],
+      "equipment": [
+        "bludgeon",
+        "medium",
+        "heavy"
+      ],
+      "features": [
+        "winged"
+      ],
+      "family": [
+        "warrior"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Belcorra Haruvex",
+    "key": "belcorra-haruvex",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Belcorra-Haruvex.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Belcorra-Haruvex.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Belcorra-Haruvex.webp",
+      "scale": 1.5
+    },
+    "tags": {
+      "ancestry": [
+        "ghost"
+      ],
+      "category": [
+        "undead"
+      ],
+      "family": [
+        "affluent",
+        "sage"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Beluthus",
+    "key": "beluthus",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Beluthus.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Beluthus.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Beluthus.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "undead"
+      ],
+      "family": [
+        "sage"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Bhazrade",
+    "key": "bhazrade",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Bhazrade.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Bhazrade.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Bhazrade.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "sage"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Bloodsiphon",
+    "key": "bloodsiphon",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Bloodsiphon.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Bloodsiphon.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Bloodsiphon.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "undead",
+        "bestial"
+      ]
+    }
+  },
+  {
+    "label": "Bone Gladiator",
+    "key": "bone-gladiator",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Bone-Gladiator.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Bone-Gladiator.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Bone-Gladiator.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "skeleton"
+      ],
+      "category": [
+        "undead"
+      ]
+    }
+  },
+  {
+    "label": "Boss Skrawng",
+    "key": "boss-skrawng",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Boss-Skrawng.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Boss-Skrawng.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Boss-Skrawng.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "gremlin"
+      ],
+      "category": [
+        "fey"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Bright Walker",
+    "key": "bright-walker",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Bright-Walker.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Bright-Walker.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Bright-Walker.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "ghost",
+        "caligni"
+      ],
+      "category": [
+        "undead",
+        "darklands"
+      ]
+    }
+  },
+  {
+    "label": "Caliddo Haruvex",
+    "key": "caliddo-haruvex",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Caliddo-Haruvex.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Caliddo-Haruvex.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Caliddo-Haruvex.webp",
+      "scale": 1.5
+    },
+    "tags": {
+      "ancestry": [
+        "skeleton",
+        "graveknight"
+      ],
+      "category": [
+        "undead"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Caligni Defender",
+    "key": "caligni-defender",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Caligni-Defender.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Caligni-Defender.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Caligni-Defender.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "caligni"
+      ],
+      "category": [
+        "humanoid",
+        "darklands"
+      ]
+    }
+  },
+  {
+    "label": "Calinth Narogblom",
+    "key": "calinth-narogblom",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Calinth-Narogblom.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Calinth-Narogblom.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Calinth-Narogblom.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "gnome"
+      ],
+      "category": [
+        "humanoid",
+        "darklands"
+      ],
+      "family": [
+        "downtrodden"
+      ],
+      "special": [
+        "unique",
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Canker Cultist",
+    "key": "canker-cultist",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Canker-Cultist.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Canker-Cultist.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Canker-Cultist.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "ghoul"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "downtrodden",
+        "sage"
+      ]
+    }
+  },
+  {
+    "label": "Canker Effigy",
+    "key": "canker-effigy",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Flesh-Golem.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Flesh-Golem.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Flesh-Golem.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "constructed"
+      ]
+    }
+  },
+  {
+    "label": "Carman Rajani",
+    "key": "carman-rajani",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Carman-Rajani.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Carman-Rajani.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Carman-Rajani.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "light",
+        "bludgeon"
+      ],
+      "family": [
+        "artisan",
+        "civilian"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Chafkhem",
+    "key": "chafkhem",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Chafkhem.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Chafkhem.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Chafkhem.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "undead"
+      ],
+      "family": [
+        "sage"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Chandriu Invisar",
+    "key": "chandriu-invisar",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Chandriu-Invisar.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Chandriu-Invisar.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Chandriu-Invisar.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "ghost"
+      ],
+      "category": [
+        "undead"
+      ],
+      "family": [
+        "sage"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Child of Belcorra",
+    "key": "child-of-belcorra",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Child-Of-Belcorra.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Child-Of-Belcorra.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Child-Of-Belcorra.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "gnome"
+      ],
+      "category": [
+        "undead"
+      ],
+      "family": [
+        "downtrodden"
+      ]
+    }
+  },
+  {
+    "label": "Corpselight",
+    "key": "corpselight",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Corpselight.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Corpselight.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Corpselight.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "ghost"
+      ],
+      "category": [
+        "undead"
+      ]
+    }
+  },
+  {
+    "label": "Cratonys",
+    "key": "cratonys",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Cratonys.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Cratonys.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Cratonys.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "fiendish",
+        "velstrac"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Cynemi",
+    "key": "cynemi",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Cynemi.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Cynemi.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Cynemi.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "nephilim",
+        "cambion"
+      ],
+      "category": [
+        "humanoid",
+        "fiendish"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "downtrodden"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Deepwater Dhuthorex",
+    "key": "deepwater-dhuthorex",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Deepwater-Dhuthorex.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Deepwater-Dhuthorex.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Deepwater-Dhuthorex.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant",
+        "aquatic"
+      ]
+    }
+  },
+  {
+    "label": "Dragon's Blood Puffball",
+    "key": "dragon's-blood-puffball",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Dragons-Blood-Puffball.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Dragons-Blood-Puffball.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Dragons-Blood-Puffball.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "fungal"
+      ]
+    }
+  },
+  {
+    "label": "Dread Dhuthorex",
+    "key": "dread-dhuthorex",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Dread-Dhuthorex.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Dread-Dhuthorex.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Dread-Dhuthorex.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant",
+        "aquatic"
+      ]
+    }
+  },
+  {
+    "label": "Dread Wisp",
+    "key": "dread-wisp",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Dread-Wisp.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Dread-Wisp.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Dread-Wisp.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Dreshkan",
+    "key": "dreshkan",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Dreshkan.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Dreshkan.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Dreshkan.webp",
+      "scale": 1.5
+    },
+    "tags": {
+      "ancestry": [
+        "morlock",
+        "fleshwarp"
+      ],
+      "category": [
+        "humanoid",
+        "aberrant"
+      ],
+      "features": [
+        "tech",
+        "prosthetic"
+      ],
+      "family": [
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Dulac",
+    "key": "dulac",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Dulac.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Dulac.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Dulac.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "caligni"
+      ],
+      "category": [
+        "humanoid",
+        "darklands"
+      ],
+      "equipment": [
+        "flail",
+        "clothing",
+        "light"
+      ],
+      "family": [
+        "warrior"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Elder Child of Belcorra",
+    "key": "elder-child-of-belcorra",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Elder-Child-Of-Belcorra.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Elder-Child-Of-Belcorra.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Elder-Child-Of-Belcorra.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "gnome"
+      ],
+      "category": [
+        "undead"
+      ],
+      "family": [
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Empty Death Bodak",
+    "key": "empty-death-bodak",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Empty-Death-Bodak.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Empty-Death-Bodak.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Empty-Death-Bodak.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "gnome"
+      ],
+      "category": [
+        "undead"
+      ]
+    }
+  },
+  {
+    "label": "Falxi Orshendiel",
+    "key": "falxi-orshendiel",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Falxi-Orshendiel.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Falxi-Orshendiel.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Falxi-Orshendiel.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "special": [
+        "unique",
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Flickerwisp",
+    "key": "flickerwisp",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Flickerwisp.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Flickerwisp.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Flickerwisp.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant",
+        "air"
+      ]
+    }
+  },
+  {
+    "label": "Galudu",
+    "key": "galudu",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Galudu.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Galudu.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Galudu.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "caligni"
+      ],
+      "category": [
+        "humanoid",
+        "darklands"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "features": [
+        "magic"
+      ],
+      "family": [
+        "sage"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Gibtanius",
+    "key": "gibtanius",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Gibtanius.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Gibtanius.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Gibtanius.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Gibtas Bounder",
+    "key": "gibtas-bounder",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Gibtas-Bounder.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Gibtas-Bounder.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Gibtas-Bounder.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Graulgust",
+    "key": "graulgust",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Graulgust.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Graulgust.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Graulgust.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "morlock"
+      ],
+      "category": [
+        "humanoid",
+        "darklands"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "outcast"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Gulzash",
+    "key": "gulzash",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Gulzash.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Gulzash.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Gulzash.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "iruxi"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "unarmored"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Iribo",
+    "key": "iribo",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Iribo.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Iribo.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Iribo.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "crossbow",
+        "light",
+        "clothing"
+      ],
+      "family": [
+        "warrior"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Jafaki",
+    "key": "jafaki",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Jafaki.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Jafaki.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Jafaki.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "seugathi"
+      ],
+      "category": [
+        "aberrant"
+      ],
+      "equipment": [
+        "sword"
+      ],
+      "features": [
+        "magic",
+        "alchemy"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Jarelle Kaldrian",
+    "key": "jarelle-kaldrian",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Jarelle-Kaldrian.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Jarelle-Kaldrian.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Jarelle-Kaldrian.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human",
+        "ghost"
+      ],
+      "category": [
+        "humanoid",
+        "undead"
+      ],
+      "features": [
+        "alchemy"
+      ],
+      "family": [
+        "civilian",
+        "sage"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Jaul Mezmin",
+    "key": "jaul-mezmin",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Jaul-Mezmin.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Jaul-Mezmin.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Jaul-Mezmin.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid",
+        "werecreature",
+        "bestial"
+      ],
+      "equipment": [
+        "knife",
+        "light",
+        "clothing",
+        "medium"
+      ],
+      "features": [
+        "dual-wielding"
+      ],
+      "family": [
+        "outcast",
+        "warrior"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Jedzeli",
+    "key": "jedzeli",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Jedzeli.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Jedzeli.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Jedzeli.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "skulk"
+      ],
+      "category": [
+        "humanoid",
+        "darklands"
+      ],
+      "equipment": [
+        "knife",
+        "clothing"
+      ],
+      "family": [
+        "outcast"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Khurfel",
+    "key": "khurfel",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Khurfel.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Khurfel.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Khurfel.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "urdefhan"
+      ],
+      "category": [
+        "humanoid",
+        "darklands"
+      ],
+      "equipment": [
+        "sword",
+        "unarmored",
+        "light"
+      ],
+      "family": [
+        "warrior",
+        "outcast"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Klathor",
+    "key": "klathor",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Drow-Cavern-Seer.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Drow-Cavern-Seer.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Drow-Cavern-Seer.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing",
+        "bludgeon",
+        "focus"
+      ],
+      "family": [
+        "sage"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Korlok",
+    "key": "korlok",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Korlok.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Korlok.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Korlok.webp",
+      "scale": 1.5
+    },
+    "tags": {
+      "category": [
+        "fiendish",
+        "devil"
+      ],
+      "equipment": [
+        "polearm",
+        "unarmored",
+        "medium"
+      ],
+      "family": [
+        "warrior"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Kragala",
+    "key": "kragala",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Kragala.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Kragala.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Kragala.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "dwarf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "features": [
+        "music"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Lady's Whisper",
+    "key": "lady's-whisper",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Ladys-Whisper.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Ladys-Whisper.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Ladys-Whisper.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "skeleton"
+      ],
+      "category": [
+        "undead"
+      ],
+      "family": [
+        "affluent"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Lallizanx",
+    "key": "lallizanx",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Lallizanx.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Lallizanx.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Lallizanx.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf",
+        "fleshwarp"
+      ],
+      "category": [
+        "aberrant"
+      ],
+      "equipment": [
+        "clothing",
+        "tome"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Lasda Venkervale",
+    "key": "lasda-venkervale",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Lasda-Venkervale.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Lasda-Venkervale.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Lasda-Venkervale.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "dwarf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "special": [
+        "unique",
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Majordomo",
+    "key": "majordomo",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Majordomo.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Majordomo.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Majordomo.webp",
+      "scale": 1.5
+    },
+    "tags": {
+      "category": [
+        "shadow",
+        "undead"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Majordomo (Alternate)",
+    "key": "majordomo-(alternate)",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Majordomo-Original.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Majordomo-Original.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Majordomo-Original.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "shadow",
+        "undead"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Mister Beak",
+    "key": "mister-beak",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Mister-Beak.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Mister-Beak.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Mister-Beak.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "poppet"
+      ],
+      "category": [
+        "constructed"
+      ],
+      "equipment": [
+        "unarmored"
+      ],
+      "features": [
+        "winged"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Morlibint",
+    "key": "morlibint",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Morlibint.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Morlibint.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Morlibint.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "sage"
+      ],
+      "special": [
+        "unique",
+        "bust"
+      ]
+    }
+  },
+  {
+    "label": "Morlock Engineer",
+    "key": "morlock-engineer",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Morlock-Engineer.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Morlock-Engineer.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Morlock-Engineer.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "morlock"
+      ],
+      "category": [
+        "humanoid",
+        "darklands"
+      ],
+      "equipment": [
+        "crossbow"
+      ],
+      "features": [
+        "tech"
+      ],
+      "family": [
+        "artisan",
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Morlock Scavenger",
+    "key": "morlock-scavenger",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Morlock-Scavenger.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Morlock-Scavenger.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Morlock-Scavenger.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "morlock"
+      ],
+      "category": [
+        "humanoid",
+        "darklands"
+      ],
+      "equipment": [
+        "knife"
+      ],
+      "family": [
+        "outcast"
+      ]
+    }
+  },
+  {
+    "label": "Mudlicker Maggot",
+    "key": "mudlicker-maggot",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Mudlicker-Maggot.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Mudlicker-Maggot.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Mudlicker-Maggot.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "bestial",
+        "invertebrate"
+      ]
+    }
+  },
+  {
+    "label": "Mulventok",
+    "key": "mulventok",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Mulventok.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Mulventok.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Mulventok.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "fleshwarp"
+      ],
+      "category": [
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Murmur",
+    "key": "murmur",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Murmur.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Murmur.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Murmur.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "medusa"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "bow",
+        "light"
+      ],
+      "family": [
+        "warrior"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Murschen",
+    "key": "murschen",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Murschen.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Murschen.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Murschen.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "morlock"
+      ],
+      "category": [
+        "humanoid",
+        "darklands"
+      ],
+      "equipment": [
+        "brawling",
+        "unarmored"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Nhakazarin",
+    "key": "nhakazarin",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Nhakazarin.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Nhakazarin.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Nhakazarin.webp",
+      "scale": 1.5
+    },
+    "tags": {
+      "ancestry": [
+        "ghoul"
+      ],
+      "category": [
+        "undead"
+      ],
+      "equipment": [
+        "clothing",
+        "bludgeon",
+        "focus"
+      ],
+      "family": [
+        "sage",
+        "outcast"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Nhimbaloth's Cutter",
+    "key": "nhimbaloth's-cutter",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Nhimbaloths-Cutter.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Nhimbaloths-Cutter.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Nhimbaloths-Cutter.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "constructed"
+      ]
+    }
+  },
+  {
+    "label": "Nox",
+    "key": "nox",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Nox.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Nox.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Nox.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "caligni"
+      ],
+      "category": [
+        "humanoid",
+        "darklands"
+      ],
+      "equipment": [
+        "crossbow",
+        "clothing"
+      ],
+      "features": [
+        "music"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Nyzuros",
+    "key": "nyzuros",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Nyzuros.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Nyzuros.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Nyzuros.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light",
+        "bow",
+        "clothing"
+      ],
+      "family": [
+        "warrior",
+        "civilian"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Otari Ilvashti",
+    "key": "otari-ilvashti",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Otari-Ilvashti.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Otari-Ilvashti.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Otari-Ilvashti.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human",
+        "ghost"
+      ],
+      "category": [
+        "humanoid",
+        "undead"
+      ],
+      "equipment": [
+        "clothing",
+        "knife"
+      ],
+      "family": [
+        "warrior"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Padli",
+    "key": "padli",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Padli.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Padli.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Padli.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "caligni"
+      ],
+      "category": [
+        "humanoid",
+        "darklands"
+      ],
+      "equipment": [
+        "knife",
+        "clothing"
+      ],
+      "features": [
+        "magic"
+      ],
+      "family": [
+        "warrior",
+        "sage"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Quara Orshendiel",
+    "key": "quara-orshendiel",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Quara-Orshendiel.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Quara-Orshendiel.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Quara-Orshendiel.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "light",
+        "clothing",
+        "crossbow"
+      ],
+      "family": [
+        "warrior"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Ravirex",
+    "key": "ravirex",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Ravirex.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Ravirex.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Ravirex.webp",
+      "scale": 1.5
+    },
+    "tags": {
+      "ancestry": [
+        "dragon"
+      ],
+      "category": [
+        "draconic"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Reaper Skull Puffball",
+    "key": "reaper-skull-puffball",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Reaper-Skull-Puffball.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Reaper-Skull-Puffball.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Reaper-Skull-Puffball.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "fungal"
+      ]
+    }
+  },
+  {
+    "label": "Rikizlia",
+    "key": "rikizlia",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Rikizlia.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Rikizlia.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Rikizlia.webp",
+      "scale": 1
+    },
+    "tags": {}
+  },
+  {
+    "label": "Ryta",
+    "key": "ryta",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Ryta.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Ryta.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Ryta.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "ysoki"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "features": [
+        "magic"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Sacuishu",
+    "key": "sacuishu",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Sacuishu.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Sacuishu.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Sacuishu.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant",
+        "air"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Salaisa Malthulas",
+    "key": "salaisa-malthulas",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Salaisa-Malthulas.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Salaisa-Malthulas.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Salaisa-Malthulas.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "sword",
+        "clothing",
+        "light",
+        "medium"
+      ],
+      "family": [
+        "warrior"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Scalathrax",
+    "key": "scalathrax",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Scalathrax.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Scalathrax.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Scalathrax.webp",
+      "scale": 1.5
+    },
+    "tags": {
+      "category": [
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Seugathi Guard",
+    "key": "seugathi-guard",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Seugathi-Guard.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Seugathi-Guard.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Seugathi-Guard.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Seugathi Researcher",
+    "key": "seugathi-researcher",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Seugathi-Researcher.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Seugathi-Researcher.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Seugathi-Researcher.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Shanrigol Behemoth",
+    "key": "shanrigol-behemoth",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Shanrigol-Behemoth.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Shanrigol-Behemoth.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Shanrigol-Behemoth.webp",
+      "scale": 1.5
+    },
+    "tags": {
+      "category": [
+        "undead",
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Shanrigol Heap",
+    "key": "shanrigol-heap",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Shanrigol-Heap.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Shanrigol-Heap.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Shanrigol-Heap.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "undead",
+        "aberrant"
+      ]
+    }
+  },
+  {
+    "label": "Siora Fallowglade",
+    "key": "siora-fallowglade",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Siora-Fallowglade.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Siora-Fallowglade.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Siora-Fallowglade.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "human",
+        "ghost"
+      ],
+      "category": [
+        "shadow",
+        "undead",
+        "humanoid"
+      ],
+      "equipment": [
+        "sword"
+      ],
+      "family": [
+        "warrior"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Szek",
+    "key": "szek",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Szek.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Szek.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Szek.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "fiendish",
+        "devil"
+      ],
+      "equipment": [
+        "scroll"
+      ],
+      "features": [
+        "winged"
+      ],
+      "family": [
+        "sage"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Taklitur",
+    "key": "taklitur",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Taklitur.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Taklitur.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Taklitur.webp",
+      "scale": 1
+    },
+    "tags": {}
+  },
+  {
+    "label": "Tangletop",
+    "key": "tangletop",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Tangletop.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Tangletop.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Tangletop.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "brownie"
+      ],
+      "category": [
+        "fey"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Tanieth",
+    "key": "tanieth",
+    "source": "Custom edit based on a original piece from Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Tanieth.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Tanieth.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Tanieth.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "family": [
+        "civilian"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Urdefhan Blood Mage",
+    "key": "urdefhan-blood-mage",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Urdefhan-Blood-Mage.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Urdefhan-Blood-Mage.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Urdefhan-Blood-Mage.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "urdefhan"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "knife",
+        "clothing",
+        "light"
+      ],
+      "features": [
+        "magic"
+      ],
+      "family": [
+        "sage"
+      ]
+    }
+  },
+  {
+    "label": "Urdefhan Death Scout",
+    "key": "urdefhan-death-scout",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Urdefhan-Death-Scout.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Urdefhan-Death-Scout.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Urdefhan-Death-Scout.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "urdefhan"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "knife",
+        "clothing",
+        "light"
+      ],
+      "features": [
+        "alchemy"
+      ],
+      "family": [
+        "warrior"
+      ]
+    }
+  },
+  {
+    "label": "Urdefhan Lasher",
+    "key": "urdefhan-lasher",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Urdefhan-Lasher.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Urdefhan-Lasher.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Urdefhan-Lasher.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "urdefhan"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "flail",
+        "knife",
+        "clothing",
+        "light"
+      ],
+      "family": [
+        "warrior"
+      ]
+    }
+  },
+  {
+    "label": "Urevian",
+    "key": "urevian",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Urevian.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Urevian.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Urevian.webp",
+      "scale": 1.5
+    },
+    "tags": {
+      "category": [
+        "fiendish",
+        "devil"
+      ],
+      "equipment": [
+        "scroll"
+      ],
+      "family": [
+        "sage"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Urthagul",
+    "key": "urthagul",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Urthagal.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Urthagal.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Urthagal.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "gug"
+      ],
+      "category": [
+        "aberrant"
+      ],
+      "family": [
+        "sage"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Vaulgrist",
+    "key": "vaulgrist",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Vaulgrist.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Vaulgrist.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Vaulgrist.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "fiendish",
+        "velstrac"
+      ],
+      "equipment": [
+        "unarmored"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Vethris",
+    "key": "vethris",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Vethris.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Vethris.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Vethris.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Vischari",
+    "key": "vischari",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Vischari.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Vischari.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Vischari.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "urdefhan",
+        "ghoul"
+      ],
+      "category": [
+        "humanoid",
+        "undead"
+      ],
+      "equipment": [
+        "unarmored",
+        "clothing",
+        "brawling"
+      ],
+      "family": [
+        "warrior"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Voidbracken Chuul",
+    "key": "voidbracken-chuul",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Voidbracken-Chuul.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Voidbracken-Chuul.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Voidbracken-Chuul.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant",
+        "eldritch"
+      ]
+    }
+  },
+  {
+    "label": "Voidglutton",
+    "key": "voidglutton",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Voidglutton.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Voidglutton.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Voidglutton.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant",
+        "air"
+      ]
+    }
+  },
+  {
+    "label": "Volluk Azrinae",
+    "key": "volluk-azrinae",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Volluk-Azrinae.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Volluk-Azrinae.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Volluk-Azrinae.webp",
+      "scale": 1.5
+    },
+    "tags": {
+      "category": [
+        "aberrant"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "features": [
+        "magic",
+        "swarm"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Witchfire Warden",
+    "key": "witchfire-warden",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Witchfire-Warden.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Witchfire-Warden.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Witchfire-Warden.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "undead"
+      ]
+    }
+  },
+  {
+    "label": "Wrin Sivinxi",
+    "key": "wrin-sivinxi",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Wrin-Sivinxi.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Wrin-Sivinxi.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Wrin-Sivinxi.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf",
+        "cambion"
+      ],
+      "category": [
+        "humanoid",
+        "fiendish",
+        "nephilim"
+      ],
+      "equipment": [
+        "clothing"
+      ],
+      "family": [
+        "civilian",
+        "sage",
+        "affluent"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Yldaris Hunter",
+    "key": "yldaris-hunter",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Drow-Hunter.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Drow-Hunter.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Drow-Hunter.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "bow",
+        "sword",
+        "light"
+      ],
+      "family": [
+        "warrior"
+      ]
+    }
+  },
+  {
+    "label": "Yldaris Shootist",
+    "key": "yldaris-shootist",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Drow-Shootist.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Drow-Shootist.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Drow-Shootist.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "crossbow",
+        "clothing",
+        "light"
+      ],
+      "family": [
+        "warrior"
+      ]
+    }
+  },
+  {
+    "label": "Yldaris Warden",
+    "key": "yldaris-warden",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Drow-Warden.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Drow-Warden.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Drow-Warden.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "sword",
+        "heavy",
+        "crossbow"
+      ],
+      "features": [
+        "two-handed"
+      ],
+      "family": [
+        "warrior"
+      ]
+    }
+  },
+  {
+    "label": "Yrorix",
+    "key": "yrorix",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Yrorix.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Yrorix.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Yrorix.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "elf"
+      ],
+      "category": [
+        "humanoid"
+      ],
+      "equipment": [
+        "crossbow",
+        "clothing"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Ysondkhelir",
+    "key": "ysondkhelir",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Ysondkhelir.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Ysondkhelir.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Ysondkhelir.webp",
+      "scale": 1
+    },
+    "tags": {
+      "category": [
+        "aberrant",
+        "dream"
+      ],
+      "equipment": [
+        "sword",
+        "clothing"
+      ],
+      "family": [
+        "warrior",
+        "sage"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Zozzlarin",
+    "key": "zozzlarin",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Zozzlarin.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Zozzlarin.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Zozzlarin.webp",
+      "scale": 1.5
+    },
+    "tags": {
+      "category": [
+        "fiendish",
+        "devil"
+      ],
+      "features": [
+        "winged"
+      ],
+      "special": [
+        "unique"
+      ]
+    }
+  },
+  {
+    "label": "Squabbling Poltergeist",
+    "key": "squabbling-poltergeist",
+    "source": "Abomination Vaults",
+    "art": {
+      "portrait": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/portraits/Squabbling-Poltergeist.webp",
+      "thumb": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/thumbnails/Squabbling-Poltergeist.webp",
+      "subject": "modules/pf2e-token-pack-character-gallery/assets/abomination-vaults/subjects/Squabbling-Poltergeist.webp",
+      "scale": 1
+    },
+    "tags": {
+      "ancestry": [
+        "ghost"
+      ],
+      "category": [
+        "undead"
+      ]
+    }
+  }
+]

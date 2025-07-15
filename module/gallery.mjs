@@ -299,9 +299,41 @@ export default class GalleryApplication extends HandlebarsApplicationMixin(Appli
     static async #collapseGroup(_event, target) {
         const group = target.dataset.group;
         GALLERY_DATA.TAGS.groups[group].collapsed = !GALLERY_DATA.TAGS.groups[group].collapsed;
-        this.render({
-            parts: ["tags"]
-        });
+
+        // Находим родительский элемент fieldset, который соответствует группе тегов
+        const groupElement = target.closest("fieldset.filters.tags"); // Уточняем селектор
+        if (groupElement) {
+            // Переключаем класс 'collapsed' на fieldset
+            groupElement.classList.toggle("collapsed", GALLERY_DATA.TAGS.groups[group].collapsed);
+            // Обновляем атрибут data-collapsed
+            groupElement.dataset.collapsed = GALLERY_DATA.TAGS.groups[group].collapsed;
+
+            // Находим все дочерние элементы, которые содержат теги
+            // Это могут быть div.subcategory или button.tag, если нет подкатегорий
+            const tagContentElements = groupElement.querySelectorAll(".subcategory, button.tag");
+            
+            // Если теги находятся непосредственно внутри fieldset и нет subcategory,
+            // возможно, вам нужно найти их так:
+            // const tagContentElements = groupElement.querySelectorAll(":scope > button.tag"); 
+            // Или если есть обертка для тегов, которую нужно скрывать
+
+            tagContentElements.forEach(element => {
+                // Прямо устанавливаем display, если класс collapsed не работает
+                element.style.display = GALLERY_DATA.TAGS.groups[group].collapsed ? "none" : ""; // Устанавливаем '' для сброса
+            });
+
+            // Обновляем иконку стрелки
+            const caretIcon = target.querySelector("i.fa-caret-right, i.fa-caret-down");
+            if (caretIcon) {
+                if (GALLERY_DATA.TAGS.groups[group].collapsed) {
+                    caretIcon.classList.remove("fa-caret-down");
+                    caretIcon.classList.add("fa-caret-right");
+                } else {
+                    caretIcon.classList.remove("fa-caret-right");
+                    caretIcon.classList.add("fa-caret-down");
+                }
+            }
+        }
     }
     static async #replaceArtwork() {
         const selectedKey = this.session.selected;
